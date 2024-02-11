@@ -1,0 +1,1157 @@
+<!DOCTYPE html>
+<!-- saved from url=(0098)https://www.vectorstock.com/royalty-free-vector/hand-drawn-people-asking-questions-vector-36809580 -->
+<html lang="en" class="webp js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<link rel="preconnect" href="https://cdn.vectorstock.com/">
+	<link rel="preconnect" href="https://www.googletagmanager.com/">
+	<link rel="preconnect" href="https://www.google-analytics.com/">
+	<meta name="theme-color" content="#101122">
+	<script async="" src="./Hand drawn people asking questions Royalty Free Vector Image_files/profitwell.js.download"></script><script type="text/javascript" async="" src="./Hand drawn people asking questions Royalty Free Vector Image_files/js" nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8="></script><script type="text/javascript" async="" src="./Hand drawn people asking questions Royalty Free Vector Image_files/analytics.js.download" nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8="></script><script type="text/javascript" async="" src="./Hand drawn people asking questions Royalty Free Vector Image_files/js(1)" nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8="></script><script async="" src="./Hand drawn people asking questions Royalty Free Vector Image_files/gtm.js.download" nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8="></script><script type="text/javascript" nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8=">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"02e09611df",applicationID:"156179534"};;/*! For license information please see nr-loader-rum-1.251.1.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,DL:()=>w,OP:()=>S,lF:()=>T,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>_,sU:()=>R});var n=r(8632),i=r(9567);const o={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.D)(t,o);const r=(0,n.ek)(e);r&&(r.info=a[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},A={};function w(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!A[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return A[e]}function _(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");A[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=A[e])}const x=(0,n.mF)().o;var E=r(385),D=r(6818);const k={buildEnv:D.Re,customTransaction:void 0,disabled:!1,distMethod:D.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(E._A?.performance?.timeOrigin||E._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+E._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof E._A.XMLHttpRequest?.prototype?.addEventListener,version:D.q4,denyList:void 0},j={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!j[e])throw new Error("Runtime for ".concat(e," was never set"));return j[e]}function R(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");j[e]=(0,i.D)(t,k);const r=(0,n.ek)(e);r&&(r.runtime=j[e])}function T(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>o,q4:()=>n});const n="1.251.1",i="PROD",o="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>o,cv:()=>l,iS:()=>a,il:()=>n,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),o=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),a=Boolean("hidden"===o?.document?.visibilityState),s=/iPad|iPhone|iPod/.test(o.navigator?.userAgent),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=o.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!o.navigator?.sendBeacon,l=Math.floor(o?.performance?.timeOrigin||o?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>o});var n=r(50);const i={agentIdentifier:"",ee:void 0};class o{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(8325),i=r(1284),o=r(4322),a=r(3325);const s={};function c(e,t){const r={staged:!1,priority:a.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return a(t);s[e].get(t).staged=!0;const r=[...s[e]];function a(t){const r=e?n.ee.get(e):n.ee,a=o.X.handlers;if(r.backlog&&a){var s=r.backlog[t],c=a[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete a[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((t=>{let[r]=t;s[e].delete(r),a(r)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],o=e[3],a=e[2];i.apply(o,a)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),o=r(234);class a{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},f=!1;try{f=16===r.length&&(0,o.OP)(r).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(u.aborted&&!i)return;t&&o&&t.emit(e,r,n);for(var a=p(n),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(a,r);var f=b()[s[e]];f&&f.push([g,e,r,a]);return a},get:m,listeners:v,context:p,buffer:function(e,t){const r=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:r,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof a?e:e?(0,i.X)(e,c,(()=>new a(c))):new a(c)}function h(e,t){n[e]=v(e).concat(t)}function v(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,n.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>o});var n=r(5546);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.E,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.E);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>a});var n=r(385);let i=!1,o=!1;try{const e={get passive(){return i=!0,!1},get signal(){return o=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function a(e,t){return i||o?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,a(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,a(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>a,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?o(t,r++).toString(16):"y"===e?(3&o()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const a=[];for(var s=0;s<e;s++)a.push(o(r,i++).toString(16));return a.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>o,IK:()=>c,oD:()=>i,uT:()=>s,wO:()=>a});const n="NRBA",i=144e5,o=18e5,a={PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},s={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},c={OFF:0,FULL:1,ERROR:2}},7894:(e,t,r)=>{"use strict";function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>d,T:()=>l});var n=r(8325),i=r(5546),o=r(3325),a=r(385);const s="newrelic";const c={stn:[o.D.sessionTrace],err:[o.D.jserrors,o.D.metrics],ins:[o.D.pageAction],spa:[o.D.spa],sr:[o.D.sessionReplay,o.D.sessionTrace]},u=new Set;function d(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,n]=e;c[t]?c[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),l[t]=Boolean(n)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{a._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>o});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function o(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>a,b2:()=>o});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.bP)("load",e,t)}function a(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>o,ek:()=>u,fP:()=>a,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(7894),i=r(385);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=a();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let r=a();r.initializedAgents??={},t.initializedAt={ms:(0,n.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=a();return t.initializedAgents?.[e]}function d(e,t){a()[e]=t}function l(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>o,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>a});const n=r(3325).D.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7530:(e,t,r)=>{"use strict";r.d(t,{j:()=>b});var n=r(3325),i=r(234),o=r(5546),a=r(8325),s=r(7894),c=r(8e3),u=r(3960),d=r(385),l=r(50),f=r(3081),g=r(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let o=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&o.push(e.api[t](...n))})),o.length>1?o:o[0]}(t,...n)}}))}var h=r(2825);const v=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:A,info:w,loader_config:_,runtime:x={loaderType:b},exposed:E=!0}=t;const D=(0,g.gG)();w||(A=D.init,w=D.info,_=D.loader_config),(0,i.Dg)(e.agentIdentifier,A||{}),(0,i.GE)(e.agentIdentifier,_||{}),w.jsAttributes??={},d.v6&&(w.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,w);const k=(0,i.P_)(e.agentIdentifier),j=[w.beacon,w.errorBeacon];m||(k.proxy.assets&&(v(k.proxy.assets),j.push(k.proxy.assets)),k.proxy.beacon&&j.push(k.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...k.ajax.deny_list||[],...k.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=a.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,r,n,o){const a=(0,i.C5)(e);return null===r?delete a.jsAttributes[t]:(0,i.CX)(e,{...a,jsAttributes:{...a.jsAttributes,[t]:r}}),w(v,n,!0,o||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=w(v,e,!0,"api")})),g.addPageAction=w(v,"addPageAction",!0,n.D.pageAction),g.setCurrentRouteName=w(v,"routeName",!0,n.D.spa),g.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,w(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,o.p)(f.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,p);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,o.p)(f.xS,["API/recordReplay/called"],void 0,n.D.metrics,p),(0,o.p)("recordReplay",[],void 0,n.D.sessionReplay,p)},g.pauseReplay=function(){(0,o.p)(f.xS,["API/pauseReplay/called"],void 0,n.D.metrics,p),(0,o.p)("pauseReplay",[],void 0,n.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var A=y.prototype={createTracer:function(e,t){var r={},i=this,a="function"==typeof t;return(0,o.p)(f.xS,["API/createTracer/called"],void 0,n.D.metrics,p),(0,o.p)(m+"tracer",[(0,s.z)(),e,r],i,n.D.spa,p),function(){if(h.emit((a?"":"no-")+"fn-start",[(0,s.z)(),i,a],r),a)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],r),e}finally{h.emit("fn-end",[(0,s.z)()],r)}}}};function w(e,t,r,i){return function(){return(0,o.p)(f.xS,["API/"+t+"/called"],void 0,n.D.metrics,p),i&&(0,o.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,p),r?void 0:this}}function _(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{A[e]=w(m,e,void 0,n.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,o.p)(f.xS,["API/noticeError/called"],void 0,n.D.metrics,p),(0,o.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=E),m=!0}},1926:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.251.1.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.251.1.PROD:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}if(!s){c=!0;var f={75:"sha512-se+MgwtmnbdP/MASClg+GOgpTkSpcEndd09loplWI8jtivCRtbuBQGqwgSDauFr6FUmrBsb2ccq/Hk5NZDAKMQ=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.251.1.PROD"]=self["webpackChunk:NRBA-1.251.1.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(1926);var e=i(50);class t{#e(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];if("function"==typeof this.api?.[t])return this.api[t](...n);(0,e.Z)("Call to agent api ".concat(t," failed. The API is not currently initialized."))}addPageAction(e,t){return this.#e("addPageAction",e,t)}setPageViewName(e,t){return this.#e("setPageViewName",e,t)}setCustomAttribute(e,t,r){return this.#e("setCustomAttribute",e,t,r)}noticeError(e,t){return this.#e("noticeError",e,t)}setUserId(e){return this.#e("setUserId",e)}setApplicationVersion(e){return this.#e("setApplicationVersion",e)}setErrorHandler(e){return this.#e("setErrorHandler",e)}finished(e){return this.#e("finished",e)}addRelease(e,t){return this.#e("addRelease",e,t)}start(e){return this.#e("start",e)}recordReplay(){return this.#e("recordReplay")}pauseReplay(){return this.#e("pauseReplay")}addToTrace(e){return this.#e("addToTrace",e)}setCurrentRouteName(e){return this.#e("setCurrentRouteName",e)}interaction(){return this.#e("interaction")}}var r=i(3325),n=i(234);const o=Object.values(r.D);function a(e){const t={};return o.forEach((r=>{t[r]=function(e,t){return!1!==(0,n.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,n.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,r)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const r=l.il&&!0===(0,n.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let o;this.onAggregateImported=new Promise((e=>{o=e}));const a=async()=>{let n;try{if(r){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,957));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,n))return(0,c.L)(this.agentIdentifier,this.featureName),void o(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:r}=await e(this.featureName,"aggregate");this.featAggregate=new r(this.agentIdentifier,this.aggregator,t),o(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),o(!1)}};l.il?(0,d.b2)((()=>a()),!0):a()}shouldImportAgg(e,t){return e!==r.D.sessionReplay||!!n.Yu.MO&&(!1!==(0,n.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,r),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,r){t[e]=b(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,(0,v.D)(r,(function(e,t){if("count"!==e){var n=a[e],i=r[e];i&&!i.c?a[e]=b(i.t,n):a[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=b(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=A(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function A(e){return"object"!=typeof e?[]:(0,v.D)(e,w)}function w(e,t){return t}var _=i(8632),x=i(4402),E=i(4351);var D=i(5546),k=i(7956),j=i(3239),S=i(7894),R=i(9251);class T extends f{static featureName=R.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,r),l.il&&((0,k.N)((()=>(0,D.p)("docHidden",[(0,S.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,D.p)("winPagehide",[(0,S.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class P extends f{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends t{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=r,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(r,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,n.C5)(this.agentIdentifier),init:(0,n.P_)(this.agentIdentifier),loader_config:(0,n.DL)(this.agentIdentifier),runtime:(0,n.OP)(this.agentIdentifier)}}run(){try{const t=a(this.agentIdentifier),n=[...this.desiredFeatures];n.sort(((e,t)=>r.p[e.featureName]-r.p[t.featureName])),n.forEach((n=>{if(t[n.featureName]||n.featureName===r.D.pageViewEvent){const i=function(e){switch(e){case r.D.ajax:return[r.D.jserrors];case r.D.sessionTrace:return[r.D.ajax,r.D.pageViewEvent];case r.D.sessionReplay:return[r.D.sessionTrace];case r.D.pageViewTiming:return[r.D.pageViewEvent];default:return[]}}(n.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(n.featureName," is enabled but one or more dependent features has been disabled (").concat((0,E.P)(i),"). This may cause unintended consequences or missing data...")),this.features[n.featureName]=new n(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}}({features:[p,T,P],loaderType:"lite"})})()})();</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="csrf-name" content="csrf65c90fb05de63">
+	<meta name="csrf-value" content="f796998d477f3ce138de52c764f8d35b">
+	
+	<meta name="cart-hash" content="d751713988987e9331980363e24189ce">
+	<meta name="live-settings" content="[]">
+	<meta name="twitter:site" content="@VectorStock">
+	<meta property="og:site_name" content="VectorStock">
+	<meta property="fb:app_id" content="241100862642313">
+
+	<link rel="icon" type="image/svg+xml" href="https://cdn.vectorstock.com/img/icons/favicon.svg">
+	<link rel="icon" type="image/png" href="https://cdn.vectorstock.com/img/icons/favicon.png">
+	<link rel="search" type="application/opensearchdescription+xml" title="VectorStock Search" href="https://www.vectorstock.com/xml/searchbox.xml">
+
+	<title>Hand drawn people asking questions Royalty Free Vector Image</title>
+	<meta name="description" content="Hand drawn illustration people asking questions Vector illustration. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF, SVG vectors and high-res JPEG and transparent PNG images.">
+		<meta name="robots" content="max-image-preview:large">
+	
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.vectorstock.com/royalty-free-vector/hand-drawn-people-asking-questions-vector-36809580">
+	<meta property="og:title" content="Hand drawn people asking questions vector image on VectorStock">
+	<meta property="og:description" content="Hand drawn illustration people asking questions Vector illustration. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF, SVG vectors and high-res JPEG and transparent PNG images.">
+	<meta property="og:image" content="https://cdn1.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg">
+	<meta property="og:image:url" content="https://cdn1.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg">
+	<meta property="og:image:secure_url" content="https://cdn1.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="1000">
+	<meta property="og:image:height" content="1000">
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="https://www.vectorstock.com/royalty-free-vector/hand-drawn-people-asking-questions-vector-36809580">
+	<meta name="twitter:title" content="Hand drawn people asking questions vector image">
+	<meta name="twitter:description" content="Hand drawn illustration people asking questions Vector illustration">
+	<meta name="twitter:image" content="https://cdn1.vectorstock.com/i/thumb-large/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg">
+	<meta name="twitter:image:width" content="238">
+	<meta name="twitter:image:height" content="250">
+
+	<link rel="canonical" href="https://www.vectorstock.com/royalty-free-vector/hand-drawn-people-asking-questions-vector-36809580">
+
+	<link rel="stylesheet" type="text/css" href="./Hand drawn people asking questions Royalty Free Vector Image_files/common1705032028.min.css">
+	<link rel="stylesheet" type="text/css" href="./Hand drawn people asking questions Royalty Free Vector Image_files/common-payment1705032028.min.css">
+	<link rel="stylesheet" type="text/css" href="./Hand drawn people asking questions Royalty Free Vector Image_files/vector1705032028.min.css">
+	<script nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8=">window.dataLayer=window.dataLayer||[];(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NL6HLLR');</script>
+	<script src="./Hand drawn people asking questions Royalty Free Vector Image_files/common1707259769.min.js.download"></script>
+	<script src="./Hand drawn people asking questions Royalty Free Vector Image_files/common-payment-paddle1707259769.min.js.download"></script>
+	<script src="./Hand drawn people asking questions Royalty Free Vector Image_files/vector1707259769.min.js.download"></script>
+	<link rel="preload" href="https://cdn.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.webp" as="image" type="image/webp">
+<script src="./Hand drawn people asking questions Royalty Free Vector Image_files/tagtag.min.js.download" async=""></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="./Hand drawn people asking questions Royalty Free Vector Image_files/f.txt" nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8="></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="./Hand drawn people asking questions Royalty Free Vector Image_files/tracking.min.js.download" defer="defer" onerror="ADMITAD.onError.call(this, &quot;3&quot;)"></script><script src="./Hand drawn people asking questions Royalty Free Vector Image_files/crossdevice.min.js.download" defer="defer" onerror="ADMITAD.onError.call(this, &quot;4&quot;)"></script></head>
+<body data-new-gr-c-s-check-loaded="14.1054.0" data-gr-ext-installed="">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NL6HLLR"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- Top header -->
+<header>
+	<nav class="top">
+		<figure>
+			<a href="https://www.vectorstock.com/" title="VectorStock®">VectorStock®</a>
+		</figure>
+
+		<div class="grid">
+			<form id="searchbox" class="empty">
+				<div class="wrap">
+					<fieldset>
+						<div class="contents">
+							<div class="tags">
+								<ul></ul>
+							</div>
+							<div class="input">
+								<input type="text" name="input" autocomplete="off" autocapitalize="none" spellcheck="true" value="" placeholder="Search…" maxlength="50" autofocus="">
+								<button type="button" data-action="clear">×</button>
+							</div>
+
+							<input type="hidden" name="category" value="">
+							<input type="hidden" name="custom_srp" value="">
+							<input type="hidden" name="artist" value="">
+							<input type="hidden" name="similar" value="">
+						</div>
+					<div class="suggestions"><div></div></div></fieldset>
+										<button type="button" data-action="searchbyimage">
+						<span class="icon">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29" role="img">
+								<polyline points="17.7,24.9 6.1,24.9 6.1,4.1 18.4,4.1 22.9,8.6 22.9,17.1"></polyline>
+								<polygon class="fill" points="17.7,4.1 17.7,9.4 22.9,9.4 22.9,8.6 18.4,4.1"></polygon>
+								<circle class="fill" cx="11.4" cy="9.9" r="1.7"></circle>
+								<polygon class="fill" points="12.9,13.3 15.9,17.3 17.6,14.9 20.6,19.1 8.8,19.1"></polygon>
+								<polyline points="25.6,23.4 22.9,20.7 20.2,23.4 "></polyline>
+								<line x1="22.9" y1="20.7" x2="22.9" y2="28.4"></line>
+							</svg>
+						</span>
+						<span class="tooltip">
+							<span>Try searching by image!</span>
+						</span>
+					</button>
+										<button type="submit">
+						<span class="icon">Search</span>
+					</button>
+				</div>
+			</form>
+			<ul>
+				<li><a href="https://www.vectorstock.com/royalty-free-vectors">All Vectors</a></li>
+				<li><a href="https://www.vectorstock.com/free-vectors">Free Vectors</a></li>
+			</ul>
+		</div>
+
+		<div class="aside">
+			<ul>
+				<li><a href="https://www.vectorstock.com/popular-categories" title="Popular Categories">Categories</a></li>
+				<li><a href="https://www.vectorstock.com/pricing" title="Pricing">Pricing</a></li>
+				<li class="account">
+					<button type="button" data-action="signup">Sign Up</button>
+					<button type="button" data-action="login">Login</button>
+				</li>
+			</ul>
+		</div>
+
+		<div id="mobilenav-icon">
+			<span></span><span></span><span></span><span></span>
+		</div>
+	</nav>
+
+	<!-- Submenu -->
+	<nav id="searchrelated"></nav>	
+
+	<!-- Mobile menu -->
+	<div id="mobilenav-menu">
+		<div>
+			<div class="group">
+				<h4>Browse</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors">All Vectors</a></li>
+					<li><a href="https://www.vectorstock.com/free-vectors">Free Vectors</a></li>
+				</ul>
+			</div>
+			<div class="group">
+				<h4>Account</h4>
+				<ul>
+					<li class="account">
+						<ul>
+							<li><a href="https://www.vectorstock.com/signup">Sign Up</a></li>
+							<li data-action="login"><a href="https://www.vectorstock.com/?login=1">Login…</a></li>
+							<li><a href="https://www.vectorstock.com/pricing">Pricing</a></li>
+						</ul>
+					</li>
+				</ul>
+				<form method="get" action="https://www.vectorstock.com/auth/logout" class="logout">
+					<input type="hidden" name="logout" value="1">
+				</form>
+			</div>
+			<div class="group">
+				<h4>Help</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/faq"><abbr title="Frequently Asked Questions">FAQs</abbr></a></li>
+					<li><a href="https://www.vectorstock.com/contact">Contact Us</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+		<!-- Account Menu Tabs -->
+		<aside id="nav_sidebar" class="tabs tabsDark">
+
+			<nav>
+				<ul role="tablist">
+					<li data-tab-id="signup" class=""><span role="tab"><span>Sign Up</span></span></li>
+					<li data-tab-id="login" class="selected"><span role="tab"><span>Login</span></span></li>
+				</ul>
+			</nav>
+
+			<section id="sb_signup" data-tab-id="signup" class="">
+				<div class="primary">
+					<p>New to VectorStock?</p>
+					<p><em>We're the largest royalty-free, vector-only stock agency in the world.</em></p>
+					<p>Every week we add new premium graphics by the thousands.</p>
+				</div>
+				<div class="secondary">
+					<p>Whether you're a global ad&nbsp;agency or a freelance graphic designer, we have the vector graphics to make your project come to life.</p>
+					<p>Buy Vectors, sell Vectors or both. <a href="https://www.vectorstock.com/signup">Sign up now, it’s free.</a></p>
+				</div>
+				<div class="footer">
+					<button class="master">
+						<span class="title">Sign Up...</span>
+						<span class="value">
+							<span class="symbol signup"></span>
+						</span>
+					</button>
+				</div>
+			</section>
+
+			<section id="sb_login" data-tab-id="login" class="selected">
+				<form action="https://www.vectorstock.com/auth/login" method="post">
+					<fieldset class="">
+						<label for="vs_username">Email / Username</label>
+						<div class="textfield">
+							<input type="text" id="vs_username" name="vs_username" value="" autocomplete="on" tabindex="1">
+						</div>
+					</fieldset>
+					<fieldset class="">
+						<label for="vs_password">Password</label>
+						<button type="button" class="forgot">Forgot Password</button>
+						<div class="textfield">
+							<input type="password" id="vs_password" name="vs_password" value="" autocomplete="on" tabindex="2" maxlength="72">
+						</div>
+					</fieldset>
+
+
+					<button type="submit" tabindex="4">Login</button>
+				</form>
+				<div class="alternatives">
+					<h6>Or Login With</h6>
+					<ul>
+						<li class="gp"><a href="https://www.vectorstock.com/">
+							<span class="title">Google</span>
+							<span class="icon"></span>
+						</a></li>
+						<li class="fb"><a href="https://www.vectorstock.com/">
+							<span class="title">Facebook</span>
+							<span class="icon"></span>
+						</a></li>
+					</ul>
+				</div>
+
+
+			</section>
+		</aside>
+
+	<!-- Page -->
+	<article>
+		<section id="vs-asset" style="max-width: 882px;">
+
+			<!-- Aside -->
+			<div class="aside">
+				<ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+					<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+						<a itemtype="http://schema.org/Thing" itemprop="item" href="https://www.vectorstock.com/royalty-free-vectors">
+							<span itemprop="name">Royalty Free Vectors</span>
+						</a>
+						<meta itemprop="position" content="1">
+					</li>
+					<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+						<a itemtype="http://schema.org/Thing" itemprop="item" href="https://www.vectorstock.com/royalty-free-vectors/asking-vectors">
+							<span itemprop="name">Asking Vectors</span>
+						</a>
+						<meta itemprop="position" content="2">
+					</li>
+				</ol>
+
+				<h1>Hand drawn people asking questions vector&nbsp;image</h1>
+
+				<figure class="target reveal">
+					<div class="highres" data-src="https://cdn1.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg" style="padding-top: 99.9%;">
+						<picture>
+							<source type="image/webp" srcset="https://cdn.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.webp">
+							<source type="image/jpeg" srcset="https://cdn1.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg">
+							<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/hand-drawn-people-asking-questions-vector-36809580.jpg" importance="high" title="Hand drawn people asking questions vector image" alt="Hand drawn people asking questions">
+						</picture>
+					</div>
+					<div class="overlay"></div>
+				</figure>
+
+				<form data-loggedin="0" data-licenses="3" data-license="standard" data-status="" data-payment="single-image">
+					<input type="hidden" id="vector_id" value="36809580">
+					<input type="hidden" id="vector_title" value="Hand drawn people asking questions">
+					<input type="hidden" id="vector_description" value="Hand drawn illustration people asking questions Vector illustration. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF, SVG vectors and high-res JPEG and transparent PNG images.">
+					<input type="hidden" id="vector_url" value="https://www.vectorstock.com/royalty-free-vector/hand-drawn-people-asking-questions-vector-36809580">
+					<input type="hidden" id="vector_media" value="https://cdn1.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg">
+					<input type="hidden" id="vector_ratio" value="1">
+					<input type="hidden" id="vector_license_status" value="">
+					<input type="hidden" id="artist_name" value="Vectorpic">
+					<input type="hidden" id="account_user" value="0">
+					<input type="hidden" id="vector_transparent_png" value="1">
+					<input type="hidden" id="vector_svg" value="1">
+					<input type="hidden" id="vector_download_urls" value="[]">
+					<input type="hidden" id="vector_license_options" value="[{&quot;type&quot;:&quot;standard&quot;,&quot;label&quot;:&quot;Standard License&quot;,&quot;cost&quot;:{&quot;single-image&quot;:14.99,&quot;credits&quot;:1,&quot;subscription&quot;:1}},{&quot;type&quot;:&quot;expanded&quot;,&quot;label&quot;:&quot;Expanded License&quot;,&quot;cost&quot;:{&quot;single-image&quot;:39.99,&quot;credits&quot;:30}},{&quot;type&quot;:&quot;exclusive&quot;,&quot;label&quot;:&quot;Exclusive Buyout&quot;,&quot;cost&quot;:{&quot;single-image&quot;:399}}]">
+					<input type="hidden" id="account_filetype" value="zip">
+					<input type="hidden" id="account_customizations" value="[]">
+					<input type="hidden" id="account_cloud" value="[{&quot;type&quot;:&quot;googledrive&quot;,&quot;status&quot;:&quot;connect&quot;}]">
+					
+					<div class="options">
+						<!--
+						-- OPTION: License type
+						-->
+						<div class="option" data-type="license" data-license="standard" data-licenses="3">
+							<h6><span class="type">License</span><a href="https://www.vectorstock.com/faq/members/standard-license">Learn More</a></h6>
+							<div class="optgroup radgroup">
+								<fieldset class="checked">
+									<label for="f_license_standard">
+										<input type="radio" id="f_license_standard" name="license" value="standard" checked="checked" tabindex="2">
+										<span class="label">Standard</span>
+										<span class="descr">You can use the vector for personal and commercial purposes.</span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_license_expanded">
+										<input type="radio" id="f_license_expanded" name="license" value="expanded" tabindex="4">
+										<span class="label">Expanded</span>
+										<span class="descr">You can use the vector on items for resale and print-on-demand.</span>
+									</label>
+								</fieldset>
+							</div>
+
+							<div class="help">
+								<p>The license type determines how you can use this image.</p>
+								<table>
+									<thead>
+										<tr>
+											<th></th>
+																						<th data-license="standard">Std.</th>																						<th data-license="expanded">Exp.</th>										</tr>
+									</thead>
+									<tbody>
+																				<tr>
+											<td>Print / Editorial</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Graphic Design</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Web Design</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Social Media</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Edit &amp; Modify</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Multi-user</td>
+											<td data-license="standard"><span class="no"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Resale Items</td>
+											<td data-license="standard"><span class="no"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Print on Demand</td>
+											<td data-license="standard"><span class="no"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+						
+						<!--
+						-- OPTION: License type: Exclusive
+						-->
+						<div class="option" data-type="ownership">
+							<h6>
+								<span class="type">Ownership</span>
+								<a href="https://www.vectorstock.com/faq/members/what-is-an-exclusive-buyout">Learn More</a>
+							</h6>
+							<div class="optgroup radgroup" data-id="rights" data-enabled="1">
+								<fieldset>
+									<label for="f_ownership_exclusive">
+										<input type="radio" id="f_ownership_exclusive" name="license" value="exclusive" tabindex="4">
+										<span class="label">Exclusive</span>
+										<span class="descr">This vector becomes exclusively yours for any purpose. The artist will cease licensing it to others.</span>
+									</label>
+								</fieldset>
+							</div>
+							
+							<div class="help">
+								<p>Want to have this vector image all to yourself? An Exclusive Buyout secures the full rights of this vector.</p>
+								<p>We will remove this vector from our library and the artist will cease selling the&nbsp;artwork.</p>
+							</div>
+						</div>
+						
+						<!--
+						-- OPTION: Payment options (Standard)
+						-->
+						<div class="option" data-type="payment" data-license="standard">
+							<h6><span class="type">Ways to Buy</span><a href="https://www.vectorstock.com/pricing">Compare</a></h6>
+							<div class="optgroup radgroup" data-license="standard">
+								<fieldset class="checked">
+									<label for="f_payment_standard_single-image">
+										<input type="radio" id="f_payment_standard_single-image" name="payment_standard" data-cost="14.99" value="single-image" checked="checked" tabindex="5">
+										<span class="label">Pay-per-Image</span>
+										<span class="value"><small>$</small><var>14.99</var></span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_payment_standard_credits">
+										<input type="radio" id="f_payment_standard_credits" name="payment_standard" data-cost="1" value="credits" tabindex="6">
+										<span class="label">Credits</span>
+										<span class="value"><small>$</small><var>1.00</var></span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_payment_standard_subscription">
+										<input type="radio" id="f_payment_standard_subscription" name="payment_standard" data-cost="1" value="subscription" tabindex="7">
+										<span class="label">Subscription</span>
+										<span class="value"><small>$</small><var>0.60</var></span>
+									</label>
+								</fieldset>
+							</div>
+							<div class="help">
+								<p>There are three ways to pay for Standard licenses. Prices are $<abbr title="United States Dollar">USD</abbr>.</p>
+
+								<table>
+									<thead>
+										<tr>
+											<th>Pay with</th>
+											<th>Image Price</th>
+										</tr>
+									</thead>
+									<tbody>
+																				<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pay-per-Image</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>14.99</span>
+												</span>
+												<span class="byline">One-time payment</span>
+											</td>
+										</tr>
+																				<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pre-paid Credits</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>1</span>
+												</span>
+												<span class="byline">Download images on-demand (1 credit = $1). Minimum purchase of 30.</span>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Subscription Plan</span>
+													<span class="dm"></span>
+													<span class="dd"><em>From</em> 60¢</span>
+												</span>
+												<span class="byline">Choose a monthly plan. Unused downloads automatically roll into following month.</span>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+						<!--
+						-- OPTION: Payment options (Expanded)
+						-->
+						<div class="option" data-type="payment" data-license="expanded">
+							<h6><span class="type">Ways to Buy</span><a href="https://www.vectorstock.com/faq/members/ways-to-buy">Compare</a></h6>
+							<div class="optgroup radgroup" data-license="expanded">
+								<fieldset class="checked">
+									<label for="f_payment_expanded_single-image">
+										<input type="radio" id="f_payment_expanded_single-image" name="payment_expanded" data-cost="39.99" value="single-image" checked="checked" tabindex="8">
+										<span class="label">Pay-per-Image</span>
+										<span class="value"><small>$</small><var>39.99</var></span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_payment_expanded_credits">
+										<input type="radio" id="f_payment_expanded_credits" name="payment_expanded" data-cost="30" value="credits" tabindex="9">
+										<span class="label">Credits</span>
+										<span class="value"><small>$</small><var>30.00</var></span>
+									</label>
+								</fieldset>
+							</div>
+														<div class="help">
+								<p>There are two ways to pay for Expanded licenses. Prices are $<abbr title="United States Dollar">USD</abbr>.</p>
+
+								<table>
+									<thead>
+										<tr>
+											<th>Pay with</th>
+											<th>Cost per Image</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pay-per-Image</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>39.99</span>
+												</span>
+												<span class="byline">One-off payment, no signup needed.</span>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pre-paid Credits</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>30</span>
+												</span>
+												<span class="byline">Download images on-demand (1 credit = $1).</span>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+													</div>
+						<!--
+						-- OPTION: Payment options (Exclusive)
+						-->
+						<div class="option" data-type="payment" data-license="exclusive">
+							<h6><span class="type">Payment</span></h6>
+							<div class="optgroup radgroup" data-license="exclusive">
+								<fieldset class="checked">
+									<label for="f_payment_exclusive_ppi">
+										<input type="radio" id="f_payment_exclusive_ppi" name="payment_exclusive" data-cost="399" value="single-image" checked="checked" tabindex="8">
+										<span class="label">Pay-per-Image</span>
+										<span class="value"><small>$</small><var>399</var></span>
+									</label>
+								</fieldset>
+							</div>
+						</div>
+						<!--
+						-- OPTION: Customization
+						-->
+						<div class="option" data-type="customization">
+							<h6><span class="type">Extra Services</span><a href="https://www.vectorstock.com/faq/members/what-is-the-customize-image-service">Learn More</a></h6>
+							<div class="optgroup chkgroup">
+								<fieldset>
+									<label for="f_payment_customization">
+										<input type="checkbox" id="f_payment_customization" name="payment_customization" data-cost="85" value="customization" tabindex="12">
+										<span class="label">Customize image</span>
+										<span class="descr">Only available with Pay-per-Image</span>
+										<span class="value"><small>$</small><var>85.00</var></span>
+									</label>
+								</fieldset>
+							</div>
+							<div class="help">
+								<p>Love the image but just need a few modifications? Let our talented artists do the work for you!</p>
+								<p>We’ll connect you with a designer who can make updates and send you the artwork in a format of your choice.</p>
+								<h4>Examples</h4>
+								<ul>
+									<li>Change the text</li>
+									<li>Modify colors</li>
+									<li>Resize to new dimensions</li>
+									<li>Include logo or symbol</li>
+									<li>Add your company or business name</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="download">
+						<button type="button" data-action="download">
+							<span class="label">Download Image</span>
+							<span class="icon"></span>
+						</button>
+						<h6><span class="label">Files Included</span></h6>
+						<div class="help">
+							<span class="loading"><span class="label">Loading Details...</span></span>
+						</div>
+					</div>
+				</form>
+			</div>
+
+			<!-- Image -->
+			<div class="image">
+				<figure data-orientation="square" class="target reveal">
+					<div class="highres" data-src="https://cdn1.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg" style="padding-top: 99.9%;">
+						<picture>
+							<source type="image/webp" srcset="https://cdn.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.webp">
+							<source type="image/jpeg" srcset="https://cdn1.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg">
+							<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/hand-drawn-people-asking-questions-vector-36809580.jpg" importance="high" title="Hand drawn people asking questions vector image" alt="Hand drawn people asking questions">
+						</picture>
+					</div>
+					<div class="overlay"></div>
+					<div class="panels">
+						<div class="share">
+							<ul>
+								<li><button type="button" data-action="pinterest"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M12.5,0C5.6,0,0,5.6,0,12.5c0,5.12,3.08,9.52,7.48,11.45c-0.03-0.87-0.01-1.92,0.22-2.87c0.24-1.01,1.61-6.81,1.61-6.81s-0.4-0.8-0.4-1.98c0-1.85,1.07-3.24,2.41-3.24c1.14,0,1.69,0.85,1.69,1.88c0,1.14-0.73,2.85-1.1,4.44c-0.31,1.33,0.67,2.41,1.97,2.41c2.37,0,3.96-3.04,3.96-6.65c0-2.74-1.85-4.79-5.2-4.79c-3.79,0-6.15,2.83-6.15,5.99c0,1.09,0.32,1.86,0.82,2.45c0.23,0.27,0.26,0.38,0.18,0.7c-0.06,0.23-0.2,0.78-0.25,1c-0.08,0.32-0.34,0.43-0.63,0.31c-1.75-0.71-2.56-2.62-2.56-4.77c0-3.55,3-7.81,8.93-7.81c4.77,0,7.91,3.45,7.91,7.16c0,4.9-2.73,8.57-6.75,8.57c-1.35,0-2.62-0.73-3.05-1.56c0,0-0.73,2.88-0.88,3.44c-0.27,0.96-0.78,1.93-1.26,2.68C10.08,24.82,11.27,25,12.5,25C19.4,25,25,19.4,25,12.5S19.4,0,12.5,0L12.5,0z"></path></svg></span><span class="label">Save to Pinterest</span></button></li>
+								<li><button type="button" data-action="facebook"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M22.44,1H2.56C1.7,1,1,1.7,1,2.56v19.88C1,23.3,1.7,24,2.56,24h10.41v-8.89H9.98v-3.46h2.99V9.1c0-2.96,1.81-4.58,4.45-4.58c1.27,0,2.35,0.09,2.67,0.14v3.1l-1.83,0c-1.44,0-1.72,0.68-1.72,1.69v2.21h3.43l-0.45,3.46h-2.98V24h5.89C23.3,24,24,23.3,24,22.44V2.56C24,1.7,23.3,1,22.44,1z"></path></svg></span><span class="label">Post to Facebook</span></button></li>
+								<li><button type="button" data-action="twitter"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M7.86,22.5c9.43,0,14.59-7.69,14.59-14.37c0-0.22,0-0.44-0.01-0.65c1-0.71,1.87-1.6,2.56-2.61c-0.92,0.4-1.91,0.67-2.95,0.79c1.06-0.62,1.87-1.61,2.26-2.79c-0.99,0.58-2.09,1-3.26,1.23c-0.94-0.98-2.27-1.6-3.74-1.6c-2.83,0-5.13,2.26-5.13,5.05c0,0.4,0.05,0.78,0.13,1.15C8.05,8.49,4.27,6.48,1.74,3.42C1.3,4.17,1.05,5.04,1.05,5.96c0,1.75,0.91,3.3,2.28,4.2C2.49,10.14,1.7,9.91,1,9.53C1,9.55,1,9.58,1,9.6c0,2.45,1.77,4.49,4.11,4.95c-0.43,0.12-0.88,0.18-1.35,0.18c-0.33,0-0.65-0.03-0.96-0.09c0.65,2.01,2.55,3.47,4.79,3.51C5.84,19.5,3.63,20.3,1.22,20.3c-0.41,0-0.82-0.02-1.22-0.07C2.27,21.66,4.97,22.5,7.86,22.5"></path></svg></span><span class="label">Post to Twitter</span></button></li>
+							</ul>
+							<ul>
+								<li><button type="button" data-action="email"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M24.37,2.25c-0.07,0-0.15,0.01-0.22,0.04l-2.75,1L0.24,12.14c-0.3,0.13-0.33,0.54-0.05,0.71l3.94,2.39l0.99,0.6l1.94,5.58c0.05,0.14,0.25,0.1,0.25-0.04l0.03-4.19v-0.05l8.87-7.49c0.15-0.13,0.37-0.12,0.52,0.01l0,0c0.17,0.15,0.17,0.42,0.01,0.58L8.85,18v0.18l7.53,4.52c0.21,0.13,0.48,0.04,0.57-0.19l7.89-19.11l0.11-0.28C25.13,2.68,24.8,2.25,24.37,2.25z"></path></svg></span><span class="label">Send by Email</span></button></li>
+							</ul>
+						</div>
+						<div class="transparency">
+							<button type="button" data-action="transparent" title="Transparent PNG Preview"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M8.33,0v8.33H0V0H8.33z M25,0h-8.33v8.33H25V0z M8.33,8.33v8.33h8.33V8.33H8.33z M25,25v-8.33h-8.33V25H25z M0,25h8.33v-8.33H0V25z"></path></svg></span><span class="label"><span class="copy-lg">Transparent PNG Preview</span><span class="copy-st">PNG Preview</span></span></button>
+						</div>
+						<div class="composite">
+							<button type="button" data-action="download"><span><span class="label">Download JPG Preview Image</span></span></button>
+						</div>
+					</div>
+				</figure>
+				<div class="details">
+					<div class="meta">
+						<ul>
+							<li class="meta-id">
+								<dl><dt>Image ID</dt><dd>36809580</dd></dl>
+							</li>
+							<li class="meta-color-mode">
+								<dl><dt>Color Mode</dt><dd>RGB</dd></dl>
+							</li>
+							<li class="meta-artist">
+								<dl>
+									<dt>Artist</dt>
+									<dd>
+										<a href="https://www.vectorstock.com/royalty-free-vectors/vectors-by_Vectorpic" rel="nofollow">Vectorpic</a>
+										<button type="button" data-action="follow" title="Follow Artists that you like to create a newsfeed of their recent images."><span class="label">Follow</span></button>
+										<button type="button" data-action="notfollow" title="Hide Artists that you don&#39;t like to exclude their images in search results."><span class="label">Hide</span></button>
+									</dd>
+								</dl>
+							</li>
+						</ul>
+					</div>
+					<div class="options" data-total="2">
+						<ul>
+							<li class="opt-like">
+								<button type="button" data-action="like" data-count="0"><span class="icon">♥</span><span class="label">Like</span><span class="tally"></span></button>
+							</li>
+							<li class="opt-cart">
+								<button type="button" data-action="cart"><span class="icon">+</span><span class="label">Cart</span></button>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!-- Metadata -->
+			<div class="metadata">
+				<div itemtype="http://schema.org/ImageObject" itemscope="">
+					<meta itemprop="contentUrl" content="https://cdn1.vectorstock.com/i/1000x1000/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg">
+					<meta itemprop="thumbnailUrl" content="https://cdn1.vectorstock.com/i/thumb-large/95/80/hand-drawn-people-asking-questions-vector-36809580.jpg">
+					<meta itemprop="name" content="Hand drawn people asking questions">
+					<meta itemprop="description" content="Hand drawn illustration people asking questions Vector illustration. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF, SVG vectors and high-res JPEG and transparent PNG images. vector image">
+					<meta itemprop="author" content="Vectorpic">
+					<meta itemprop="datePublished" content="2021-03-24">
+					<meta itemprop="license" content="https://www.vectorstock.com/faq/members/standard-license">
+					<meta itemprop="acquireLicensePage" content="https://www.vectorstock.com/royalty-free-vector/hand-drawn-people-asking-questions-vector-36809580">
+					<meta itemprop="sourceOrganization" content="VectorStock.com">
+				</div>
+			</div>
+
+		</section>
+
+
+		<section id="vs-related">
+			<div id="group-similar" class="group">
+				<h6><span class="icon"></span><strong>Similar Images</strong></h6>
+
+				<div class="gallery_mosaic tiled">
+					<figure data-id="44901688" style="width: 249px; height: 249px; order: 0;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/people-asking-questions-vector-44901688" style="height: 239px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/16/88/people-asking-questions-vector-44901688.webp 2x, https://cdn.vectorstock.com/i/preview-1x/16/88/people-asking-questions-vector-44901688.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/16/88/people-asking-questions-vector-44901688.webp 3x, https://cdn.vectorstock.com/i/preview-1x/16/88/people-asking-questions-vector-44901688.webp 2x, https://cdn.vectorstock.com/i/preview-lt/16/88/people-asking-questions-vector-44901688.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/16/88/people-asking-questions-vector-44901688.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/16/88/people-asking-questions-vector-44901688.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/people-asking-questions-vector-44901688.jpg" data-id="44901688" data-title="people asking questions" data-ratio="1" alt="People asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="44888553" style="width: 249px; height: 249px; order: 1;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-vector-44888553" style="height: 239px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/85/53/flat-people-asking-questions-vector-44888553.webp 2x, https://cdn.vectorstock.com/i/preview-1x/85/53/flat-people-asking-questions-vector-44888553.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/85/53/flat-people-asking-questions-vector-44888553.webp 3x, https://cdn.vectorstock.com/i/preview-1x/85/53/flat-people-asking-questions-vector-44888553.webp 2x, https://cdn.vectorstock.com/i/preview-lt/85/53/flat-people-asking-questions-vector-44888553.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/85/53/flat-people-asking-questions-vector-44888553.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/85/53/flat-people-asking-questions-vector-44888553.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/flat-people-asking-questions-vector-44888553.jpg" data-id="44888553" data-title="flat people asking questions" data-ratio="1" alt="Flat people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="27703397" style="width: 249px; height: 249px; order: 2;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/old-couple-doing-fitness-flat-vector-27703397" style="height: 239px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/33/97/old-couple-doing-fitness-flat-vector-27703397.webp 2x, https://cdn.vectorstock.com/i/preview-1x/33/97/old-couple-doing-fitness-flat-vector-27703397.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/33/97/old-couple-doing-fitness-flat-vector-27703397.webp 3x, https://cdn.vectorstock.com/i/preview-1x/33/97/old-couple-doing-fitness-flat-vector-27703397.webp 2x, https://cdn.vectorstock.com/i/preview-lt/33/97/old-couple-doing-fitness-flat-vector-27703397.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/33/97/old-couple-doing-fitness-flat-vector-27703397.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/33/97/old-couple-doing-fitness-flat-vector-27703397.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/old-couple-doing-fitness-flat-vector-27703397.jpg" data-id="27703397" data-title="old couple doing fitness flat" data-ratio="1" alt="Old couple doing fitness flat vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="29628057" style="width: 249px; height: 249px; order: 3;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/man-gives-a-woman-gift-vector-29628057" style="height: 239px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/80/57/man-gives-a-woman-gift-vector-29628057.webp 2x, https://cdn.vectorstock.com/i/preview-1x/80/57/man-gives-a-woman-gift-vector-29628057.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/80/57/man-gives-a-woman-gift-vector-29628057.webp 3x, https://cdn.vectorstock.com/i/preview-1x/80/57/man-gives-a-woman-gift-vector-29628057.webp 2x, https://cdn.vectorstock.com/i/preview-lt/80/57/man-gives-a-woman-gift-vector-29628057.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/80/57/man-gives-a-woman-gift-vector-29628057.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/80/57/man-gives-a-woman-gift-vector-29628057.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/man-gives-a-woman-gift-vector-29628057.jpg" data-id="29628057" data-title="man gives a woman gift" data-ratio="1" alt="Man gives a woman gift vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="30109872" style="width: 392px; height: 249px; order: 4;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/handyman-worker-character-with-many-hands-holding-vector-30109872" style="height: 239px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/98/72/handyman-worker-character-with-many-hands-holding-vector-30109872.webp 2x, https://cdn.vectorstock.com/i/preview-1x/98/72/handyman-worker-character-with-many-hands-holding-vector-30109872.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/98/72/handyman-worker-character-with-many-hands-holding-vector-30109872.webp 3x, https://cdn.vectorstock.com/i/preview-1x/98/72/handyman-worker-character-with-many-hands-holding-vector-30109872.webp 2x, https://cdn.vectorstock.com/i/preview-lt/98/72/handyman-worker-character-with-many-hands-holding-vector-30109872.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/98/72/handyman-worker-character-with-many-hands-holding-vector-30109872.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/98/72/handyman-worker-character-with-many-hands-holding-vector-30109872.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/handyman-worker-character-with-many-hands-holding-vector-30109872.jpg" data-id="30109872" data-title="handyman worker character with many hands holding" data-ratio="1.596" alt="Handyman worker character with many hands holding vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="17165674" style="width: 256px; height: 256px; order: 5; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/happy-businessman-vector-17165674" style="height: 246px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/56/74/happy-businessman-vector-17165674.webp 2x, https://cdn.vectorstock.com/i/preview-1x/56/74/happy-businessman-vector-17165674.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/56/74/happy-businessman-vector-17165674.webp 3x, https://cdn.vectorstock.com/i/preview-1x/56/74/happy-businessman-vector-17165674.webp 2x, https://cdn.vectorstock.com/i/preview-lt/56/74/happy-businessman-vector-17165674.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/56/74/happy-businessman-vector-17165674.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/56/74/happy-businessman-vector-17165674.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/happy-businessman-vector-17165674.jpg" data-id="17165674" data-title="happy businessman" data-ratio="1" alt="Happy businessman vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="43291964" style="width: 281px; height: 256px; order: 6;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/migration-support-modern-colorful-flat-design-vector-43291964" style="height: 246px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/19/64/migration-support-modern-colorful-flat-design-vector-43291964.webp 2x, https://cdn.vectorstock.com/i/preview-1x/19/64/migration-support-modern-colorful-flat-design-vector-43291964.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/19/64/migration-support-modern-colorful-flat-design-vector-43291964.webp 3x, https://cdn.vectorstock.com/i/preview-1x/19/64/migration-support-modern-colorful-flat-design-vector-43291964.webp 2x, https://cdn.vectorstock.com/i/preview-lt/19/64/migration-support-modern-colorful-flat-design-vector-43291964.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/19/64/migration-support-modern-colorful-flat-design-vector-43291964.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/19/64/migration-support-modern-colorful-flat-design-vector-43291964.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/migration-support-modern-colorful-flat-design-vector-43291964.jpg" data-id="43291964" data-title="migration support - modern colorful flat design" data-ratio="1.1" alt="Migration support - modern colorful flat design vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="44876691" style="width: 256px; height: 256px; order: 7;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-drawn-flat-design-people-waving-vector-44876691" style="height: 246px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/66/91/hand-drawn-flat-design-people-waving-vector-44876691.webp 2x, https://cdn.vectorstock.com/i/preview-1x/66/91/hand-drawn-flat-design-people-waving-vector-44876691.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/66/91/hand-drawn-flat-design-people-waving-vector-44876691.webp 3x, https://cdn.vectorstock.com/i/preview-1x/66/91/hand-drawn-flat-design-people-waving-vector-44876691.webp 2x, https://cdn.vectorstock.com/i/preview-lt/66/91/hand-drawn-flat-design-people-waving-vector-44876691.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/66/91/hand-drawn-flat-design-people-waving-vector-44876691.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/66/91/hand-drawn-flat-design-people-waving-vector-44876691.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/hand-drawn-flat-design-people-waving-vector-44876691.jpg" data-id="44876691" data-title="hand drawn flat design people waving" data-ratio="1" alt="Hand drawn flat design people waving vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="43174016" style="width: 215px; height: 256px; order: 8;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/two-men-shake-hands-with-each-other-isolated-vector-43174016" style="height: 246px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/40/16/two-men-shake-hands-with-each-other-isolated-vector-43174016.webp 2x, https://cdn.vectorstock.com/i/preview-1x/40/16/two-men-shake-hands-with-each-other-isolated-vector-43174016.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/40/16/two-men-shake-hands-with-each-other-isolated-vector-43174016.webp 3x, https://cdn.vectorstock.com/i/preview-1x/40/16/two-men-shake-hands-with-each-other-isolated-vector-43174016.webp 2x, https://cdn.vectorstock.com/i/preview-lt/40/16/two-men-shake-hands-with-each-other-isolated-vector-43174016.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/40/16/two-men-shake-hands-with-each-other-isolated-vector-43174016.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/40/16/two-men-shake-hands-with-each-other-isolated-vector-43174016.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/two-men-shake-hands-with-each-other-isolated-vector-43174016.jpg" data-id="43174016" data-title="two men shake hands with each other isolated" data-ratio="0.832" alt="Two men shake hands with each other isolated vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="44888608" style="width: 379px; height: 256px; order: 9;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-drawn-group-people-waving-vector-44888608" style="height: 246px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/86/08/hand-drawn-group-people-waving-vector-44888608.webp 2x, https://cdn.vectorstock.com/i/preview-1x/86/08/hand-drawn-group-people-waving-vector-44888608.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/86/08/hand-drawn-group-people-waving-vector-44888608.webp 3x, https://cdn.vectorstock.com/i/preview-1x/86/08/hand-drawn-group-people-waving-vector-44888608.webp 2x, https://cdn.vectorstock.com/i/preview-lt/86/08/hand-drawn-group-people-waving-vector-44888608.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/86/08/hand-drawn-group-people-waving-vector-44888608.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/86/08/hand-drawn-group-people-waving-vector-44888608.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/hand-drawn-group-people-waving-vector-44888608.jpg" data-id="44888608" data-title="hand drawn group people waving" data-ratio="1.5" alt="Hand drawn group people waving vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="24827545" style="width: 283px; height: 192px; order: 10; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/man-standing-with-modern-smartphone-vector-24827545" style="height: 182px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/75/45/man-standing-with-modern-smartphone-vector-24827545.webp 2x, https://cdn.vectorstock.com/i/preview-1x/75/45/man-standing-with-modern-smartphone-vector-24827545.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/75/45/man-standing-with-modern-smartphone-vector-24827545.webp 3x, https://cdn.vectorstock.com/i/preview-1x/75/45/man-standing-with-modern-smartphone-vector-24827545.webp 2x, https://cdn.vectorstock.com/i/preview-lt/75/45/man-standing-with-modern-smartphone-vector-24827545.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/75/45/man-standing-with-modern-smartphone-vector-24827545.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/75/45/man-standing-with-modern-smartphone-vector-24827545.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/man-standing-with-modern-smartphone-vector-24827545.jpg" data-id="24827545" data-title="man standing with modern smartphone" data-ratio="1.496" alt="Man standing with modern smartphone vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="44109307" style="width: 283px; height: 192px; order: 11; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/young-people-waving-hand-vector-44109307" style="height: 182px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/93/07/young-people-waving-hand-vector-44109307.webp 2x, https://cdn.vectorstock.com/i/preview-1x/93/07/young-people-waving-hand-vector-44109307.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/93/07/young-people-waving-hand-vector-44109307.webp 3x, https://cdn.vectorstock.com/i/preview-1x/93/07/young-people-waving-hand-vector-44109307.webp 2x, https://cdn.vectorstock.com/i/preview-lt/93/07/young-people-waving-hand-vector-44109307.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/93/07/young-people-waving-hand-vector-44109307.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/93/07/young-people-waving-hand-vector-44109307.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/young-people-waving-hand-vector-44109307.jpg" data-id="44109307" data-title="young people waving hand" data-ratio="1.5" alt="Young people waving hand vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="36663744" style="width: 192px; height: 192px; order: 12; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/group-joyful-people-characters-up-with-hands-vector-36663744" style="height: 182px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/37/44/group-joyful-people-characters-up-with-hands-vector-36663744.webp 2x, https://cdn.vectorstock.com/i/preview-1x/37/44/group-joyful-people-characters-up-with-hands-vector-36663744.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/37/44/group-joyful-people-characters-up-with-hands-vector-36663744.webp 3x, https://cdn.vectorstock.com/i/preview-1x/37/44/group-joyful-people-characters-up-with-hands-vector-36663744.webp 2x, https://cdn.vectorstock.com/i/preview-lt/37/44/group-joyful-people-characters-up-with-hands-vector-36663744.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/37/44/group-joyful-people-characters-up-with-hands-vector-36663744.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/37/44/group-joyful-people-characters-up-with-hands-vector-36663744.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/group-joyful-people-characters-up-with-hands-vector-36663744.jpg" data-id="36663744" data-title="group joyful people characters up with hands" data-ratio="1" alt="Group joyful people characters up with hands vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="42536487" style="width: 230px; height: 192px; order: 13; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/vaccine-concept-doctor-help-inject-vector-42536487" style="height: 182px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/64/87/vaccine-concept-doctor-help-inject-vector-42536487.webp 2x, https://cdn.vectorstock.com/i/preview-1x/64/87/vaccine-concept-doctor-help-inject-vector-42536487.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/64/87/vaccine-concept-doctor-help-inject-vector-42536487.webp 3x, https://cdn.vectorstock.com/i/preview-1x/64/87/vaccine-concept-doctor-help-inject-vector-42536487.webp 2x, https://cdn.vectorstock.com/i/preview-lt/64/87/vaccine-concept-doctor-help-inject-vector-42536487.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/64/87/vaccine-concept-doctor-help-inject-vector-42536487.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/64/87/vaccine-concept-doctor-help-inject-vector-42536487.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/vaccine-concept-doctor-help-inject-vector-42536487.jpg" data-id="42536487" data-title="vaccine concept doctor help inject" data-ratio="1.204" alt="Vaccine concept doctor help inject vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="35585369" style="width: 396px; height: 192px; order: 14;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/people-asking-questions-to-businesspeople-vector-35585369" style="height: 182px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/69/people-asking-questions-to-businesspeople-vector-35585369.webp 2x, https://cdn.vectorstock.com/i/preview-1x/53/69/people-asking-questions-to-businesspeople-vector-35585369.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/53/69/people-asking-questions-to-businesspeople-vector-35585369.webp 3x, https://cdn.vectorstock.com/i/preview-1x/53/69/people-asking-questions-to-businesspeople-vector-35585369.webp 2x, https://cdn.vectorstock.com/i/preview-lt/53/69/people-asking-questions-to-businesspeople-vector-35585369.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/69/people-asking-questions-to-businesspeople-vector-35585369.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/53/69/people-asking-questions-to-businesspeople-vector-35585369.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/people-asking-questions-to-businesspeople-vector-35585369.jpg" data-id="35585369" data-title="people asking questions to businesspeople" data-ratio="2.116" alt="People asking questions to businesspeople vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="32280183" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/four-people-holding-a-blank-banner-vector-32280183">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/01/83/four-people-holding-a-blank-banner-vector-32280183.webp 2x, https://cdn.vectorstock.com/i/preview-1x/01/83/four-people-holding-a-blank-banner-vector-32280183.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/01/83/four-people-holding-a-blank-banner-vector-32280183.webp 3x, https://cdn.vectorstock.com/i/preview-1x/01/83/four-people-holding-a-blank-banner-vector-32280183.webp 2x, https://cdn.vectorstock.com/i/preview-lt/01/83/four-people-holding-a-blank-banner-vector-32280183.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/01/83/four-people-holding-a-blank-banner-vector-32280183.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/01/83/four-people-holding-a-blank-banner-vector-32280183.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/four-people-holding-a-blank-banner-vector-32280183.jpg" data-id="32280183" data-title="four people holding a blank banner" data-ratio="1.252" alt="Four people holding a blank banner vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="44583159" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/different-people-asking-questions-vector-44583159">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/31/59/different-people-asking-questions-vector-44583159.webp 2x, https://cdn.vectorstock.com/i/preview-1x/31/59/different-people-asking-questions-vector-44583159.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/31/59/different-people-asking-questions-vector-44583159.webp 3x, https://cdn.vectorstock.com/i/preview-1x/31/59/different-people-asking-questions-vector-44583159.webp 2x, https://cdn.vectorstock.com/i/preview-lt/31/59/different-people-asking-questions-vector-44583159.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/31/59/different-people-asking-questions-vector-44583159.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/31/59/different-people-asking-questions-vector-44583159.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/different-people-asking-questions-vector-44583159.jpg" data-id="44583159" data-title="different people asking questions" data-ratio="1.5" alt="Different people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="32669180" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/people-putting-their-hands-together-vector-32669180">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/91/80/people-putting-their-hands-together-vector-32669180.webp 2x, https://cdn.vectorstock.com/i/preview-1x/91/80/people-putting-their-hands-together-vector-32669180.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/91/80/people-putting-their-hands-together-vector-32669180.webp 3x, https://cdn.vectorstock.com/i/preview-1x/91/80/people-putting-their-hands-together-vector-32669180.webp 2x, https://cdn.vectorstock.com/i/preview-lt/91/80/people-putting-their-hands-together-vector-32669180.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/91/80/people-putting-their-hands-together-vector-32669180.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/91/80/people-putting-their-hands-together-vector-32669180.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/people-putting-their-hands-together-vector-32669180.jpg" data-id="32669180" data-title="people putting their hands together" data-ratio="1.436" alt="People putting their hands together vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="31533005" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/people-characters-standing-with-thoughtful-vector-31533005">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/30/05/people-characters-standing-with-thoughtful-vector-31533005.webp 2x, https://cdn.vectorstock.com/i/preview-1x/30/05/people-characters-standing-with-thoughtful-vector-31533005.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/30/05/people-characters-standing-with-thoughtful-vector-31533005.webp 3x, https://cdn.vectorstock.com/i/preview-1x/30/05/people-characters-standing-with-thoughtful-vector-31533005.webp 2x, https://cdn.vectorstock.com/i/preview-lt/30/05/people-characters-standing-with-thoughtful-vector-31533005.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/30/05/people-characters-standing-with-thoughtful-vector-31533005.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/30/05/people-characters-standing-with-thoughtful-vector-31533005.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/people-characters-standing-with-thoughtful-vector-31533005.jpg" data-id="31533005" data-title="people characters standing with thoughtful" data-ratio="1.472" alt="People characters standing with thoughtful vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="36793279" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/young-faceless-man-pointing-away-hand-up-vector-36793279">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/32/79/young-faceless-man-pointing-away-hand-up-vector-36793279.webp 2x, https://cdn.vectorstock.com/i/preview-1x/32/79/young-faceless-man-pointing-away-hand-up-vector-36793279.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/32/79/young-faceless-man-pointing-away-hand-up-vector-36793279.webp 3x, https://cdn.vectorstock.com/i/preview-1x/32/79/young-faceless-man-pointing-away-hand-up-vector-36793279.webp 2x, https://cdn.vectorstock.com/i/preview-lt/32/79/young-faceless-man-pointing-away-hand-up-vector-36793279.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/32/79/young-faceless-man-pointing-away-hand-up-vector-36793279.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/32/79/young-faceless-man-pointing-away-hand-up-vector-36793279.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/young-faceless-man-pointing-away-hand-up-vector-36793279.jpg" data-id="36793279" data-title="young faceless man pointing away hand up" data-ratio="0.5" alt="Young faceless man pointing away hand up vector">
+							</picture>
+						</a>
+					</div></figure>
+				</div>
+				<div class="gallery small">
+					<ul>
+						<li data-id="47203423" data-title="man clapping with hands applauding person" data-src="https://cdn4.vectorstock.com/i/thumbs/34/23/man-clapping-with-hands-applauding-person-vector-47203423.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/man-clapping-with-hands-applauding-person-vector-47203423" title="man clapping with hands applauding person vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/34/23/man-clapping-with-hands-applauding-person-vector-47203423.jpg" title="man clapping with hands applauding person" alt="man clapping with hands applauding person vector image"></noscript></a></li>
+						<li data-id="25084177" data-title="business partnership and leader businessmen" data-src="https://cdn3.vectorstock.com/i/thumbs/41/77/business-partnership-and-leader-businessmen-vector-25084177.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/business-partnership-and-leader-businessmen-vector-25084177" title="business partnership and leader businessmen vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/41/77/business-partnership-and-leader-businessmen-vector-25084177.jpg" title="business partnership and leader businessmen" alt="business partnership and leader businessmen vector image"></noscript></a></li>
+						<li data-id="26626916" data-title="group protesting diverse young women holding" data-src="https://cdn2.vectorstock.com/i/thumbs/69/16/group-protesting-diverse-young-women-holding-vector-26626916.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/group-protesting-diverse-young-women-holding-vector-26626916" title="group protesting diverse young women holding vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/69/16/group-protesting-diverse-young-women-holding-vector-26626916.jpg" title="group protesting diverse young women holding" alt="group protesting diverse young women holding vector image"></noscript></a></li>
+						<li data-id="45905330" data-title="happy and powerful man standing with raised hands" data-src="https://cdn1.vectorstock.com/i/thumbs/53/30/happy-and-powerful-man-standing-with-raised-hands-vector-45905330.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/happy-and-powerful-man-standing-with-raised-hands-vector-45905330" title="happy and powerful man standing with raised hands vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/53/30/happy-and-powerful-man-standing-with-raised-hands-vector-45905330.jpg" title="happy and powerful man standing with raised hands" alt="happy and powerful man standing with raised hands vector image"></noscript></a></li>
+						<li data-id="43706389" data-title="character holding star in hand customer rating" data-src="https://cdn5.vectorstock.com/i/thumbs/63/89/character-holding-star-in-hand-customer-rating-vector-43706389.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/character-holding-star-in-hand-customer-rating-vector-43706389" title="character holding star in hand customer rating vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/63/89/character-holding-star-in-hand-customer-rating-vector-43706389.jpg" title="character holding star in hand customer rating" alt="character holding star in hand customer rating vector image"></noscript></a></li>
+						<li data-id="23662777" data-title="business training man asking audience questions" data-src="https://cdn3.vectorstock.com/i/thumbs/27/77/business-training-man-asking-audience-questions-vector-23662777.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/business-training-man-asking-audience-questions-vector-23662777" title="business training man asking audience questions vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/27/77/business-training-man-asking-audience-questions-vector-23662777.jpg" title="business training man asking audience questions" alt="business training man asking audience questions vector image"></noscript></a></li>
+						<li data-id="22267779" data-title="handshake of partners in business or study" data-src="https://cdn5.vectorstock.com/i/thumbs/77/79/handshake-of-partners-in-business-or-study-vector-22267779.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/handshake-of-partners-in-business-or-study-vector-22267779" title="handshake of partners in business or study vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/77/79/handshake-of-partners-in-business-or-study-vector-22267779.jpg" title="handshake of partners in business or study" alt="handshake of partners in business or study vector image"></noscript></a></li>
+						<li data-id="48036024" data-title="people man and woman characters waving hand" data-src="https://cdn5.vectorstock.com/i/thumbs/60/24/people-man-and-woman-characters-waving-hand-vector-48036024.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/people-man-and-woman-characters-waving-hand-vector-48036024" title="people man and woman characters waving hand vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/60/24/people-man-and-woman-characters-waving-hand-vector-48036024.jpg" title="people man and woman characters waving hand" alt="people man and woman characters waving hand vector image"></noscript></a></li>
+						<li data-id="46921730" data-title="happy people diverse women waving hand" data-src="https://cdn1.vectorstock.com/i/thumbs/17/30/happy-people-diverse-women-waving-hand-vector-46921730.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/happy-people-diverse-women-waving-hand-vector-46921730" title="happy people diverse women waving hand vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/17/30/happy-people-diverse-women-waving-hand-vector-46921730.jpg" title="happy people diverse women waving hand" alt="happy people diverse women waving hand vector image"></noscript></a></li>
+						<li data-id="47419647" data-title="happy people diverse women waving hand" data-src="https://cdn3.vectorstock.com/i/thumbs/96/47/happy-people-diverse-women-waving-hand-vector-47419647.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/happy-people-diverse-women-waving-hand-vector-47419647" title="happy people diverse women waving hand vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/96/47/happy-people-diverse-women-waving-hand-vector-47419647.jpg" title="happy people diverse women waving hand" alt="happy people diverse women waving hand vector image"></noscript></a></li>
+						<li data-id="43626522" data-title="character holding star in hand customer rating" data-src="https://cdn3.vectorstock.com/i/thumbs/65/22/character-holding-star-in-hand-customer-rating-vector-43626522.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/character-holding-star-in-hand-customer-rating-vector-43626522" title="character holding star in hand customer rating vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/65/22/character-holding-star-in-hand-customer-rating-vector-43626522.jpg" title="character holding star in hand customer rating" alt="character holding star in hand customer rating vector image"></noscript></a></li>
+						<li data-id="38146348" data-title="people greeting and waving hand set diverse happy" data-src="https://cdn4.vectorstock.com/i/thumbs/63/48/people-greeting-and-waving-hand-set-diverse-happy-vector-38146348.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/people-greeting-and-waving-hand-set-diverse-happy-vector-38146348" title="people greeting and waving hand set diverse happy vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/63/48/people-greeting-and-waving-hand-set-diverse-happy-vector-38146348.jpg" title="people greeting and waving hand set diverse happy" alt="people greeting and waving hand set diverse happy vector image"></noscript></a></li>
+						<li data-id="32393387" data-title="people shopping second hand man tries" data-src="https://cdn3.vectorstock.com/i/thumbs/33/87/people-shopping-second-hand-man-tries-vector-32393387.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/people-shopping-second-hand-man-tries-vector-32393387" title="people shopping second hand man tries vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/33/87/people-shopping-second-hand-man-tries-vector-32393387.jpg" title="people shopping second hand man tries" alt="people shopping second hand man tries vector image"></noscript></a></li>
+						<li data-id="35787515" data-title="contract conclusion concept" data-src="https://cdn1.vectorstock.com/i/thumbs/75/15/contract-conclusion-concept-vector-35787515.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/contract-conclusion-concept-vector-35787515" title="contract conclusion concept vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/75/15/contract-conclusion-concept-vector-35787515.jpg" title="contract conclusion concept" alt="contract conclusion concept vector image"></noscript></a></li>
+						<li data-id="18203092" data-title="global partnership businessmen shaking hands" data-src="https://cdn3.vectorstock.com/i/thumbs/30/92/global-partnership-businessmen-shaking-hands-vector-18203092.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/global-partnership-businessmen-shaking-hands-vector-18203092" title="global partnership businessmen shaking hands vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/30/92/global-partnership-businessmen-shaking-hands-vector-18203092.jpg" title="global partnership businessmen shaking hands" alt="global partnership businessmen shaking hands vector image"></noscript></a></li>
+						<li data-id="28422267" data-title="people ask question confused person asking" data-src="https://cdn3.vectorstock.com/i/thumbs/22/67/people-ask-question-confused-person-asking-vector-28422267.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/people-ask-question-confused-person-asking-vector-28422267" title="people ask question confused person asking vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/22/67/people-ask-question-confused-person-asking-vector-28422267.jpg" title="people ask question confused person asking" alt="people ask question confused person asking vector image"></noscript></a></li>
+						<li data-id="43806859" data-title="character holding star in hand customer rating" data-src="https://cdn5.vectorstock.com/i/thumbs/68/59/character-holding-star-in-hand-customer-rating-vector-43806859.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/character-holding-star-in-hand-customer-rating-vector-43806859" title="character holding star in hand customer rating vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/68/59/character-holding-star-in-hand-customer-rating-vector-43806859.jpg" title="character holding star in hand customer rating" alt="character holding star in hand customer rating vector image"></noscript></a></li>
+						<li data-id="31242021" data-title="job interview recruit hire people search" data-src="https://cdn2.vectorstock.com/i/thumbs/20/21/job-interview-recruit-hire-people-search-vector-31242021.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/job-interview-recruit-hire-people-search-vector-31242021" title="job interview recruit hire people search vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/20/21/job-interview-recruit-hire-people-search-vector-31242021.jpg" title="job interview recruit hire people search" alt="job interview recruit hire people search vector image"></noscript></a></li>
+						<li data-id="25089465" data-title="young woman waving hand" data-src="https://cdn1.vectorstock.com/i/thumbs/94/65/young-woman-waving-hand-vector-25089465.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/young-woman-waving-hand-vector-25089465" title="young woman waving hand vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/94/65/young-woman-waving-hand-vector-25089465.jpg" title="young woman waving hand" alt="young woman waving hand vector image"></noscript></a></li>
+						<li data-id="48062551" data-title="happy woman applauding person admiring approving" data-src="https://cdn2.vectorstock.com/i/thumbs/25/51/happy-woman-applauding-person-admiring-approving-vector-48062551.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/happy-woman-applauding-person-admiring-approving-vector-48062551" title="happy woman applauding person admiring approving vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/25/51/happy-woman-applauding-person-admiring-approving-vector-48062551.jpg" title="happy woman applauding person admiring approving" alt="happy woman applauding person admiring approving vector image"></noscript></a></li>
+						<li data-id="29615739" data-title="set people in masks playing games communicating" data-src="https://cdn5.vectorstock.com/i/thumbs/57/39/set-people-in-masks-playing-games-communicating-vector-29615739.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/set-people-in-masks-playing-games-communicating-vector-29615739" title="set people in masks playing games communicating vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/57/39/set-people-in-masks-playing-games-communicating-vector-29615739.jpg" title="set people in masks playing games communicating" alt="set people in masks playing games communicating vector image"></noscript></a></li>
+						<li data-id="33419824" data-title="hiring signing contract job employment business" data-src="https://cdn5.vectorstock.com/i/thumbs/98/24/hiring-signing-contract-job-employment-business-vector-33419824.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hiring-signing-contract-job-employment-business-vector-33419824" title="hiring signing contract job employment business vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/98/24/hiring-signing-contract-job-employment-business-vector-33419824.jpg" title="hiring signing contract job employment business" alt="hiring signing contract job employment business vector image"></noscript></a></li>
+						<li data-id="30971624" data-title="happy family gardening together grandparents" data-src="https://cdn5.vectorstock.com/i/thumbs/16/24/happy-family-gardening-together-grandparents-vector-30971624.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/happy-family-gardening-together-grandparents-vector-30971624" title="happy family gardening together grandparents vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/16/24/happy-family-gardening-together-grandparents-vector-30971624.jpg" title="happy family gardening together grandparents" alt="happy family gardening together grandparents vector image"></noscript></a></li>
+						<li data-id="29096250" data-title="people asking questions and searching answers man" data-src="https://cdn1.vectorstock.com/i/thumbs/62/50/people-asking-questions-and-searching-answers-man-vector-29096250.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/people-asking-questions-and-searching-answers-man-vector-29096250" title="people asking questions and searching answers man vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/62/50/people-asking-questions-and-searching-answers-man-vector-29096250.jpg" title="people asking questions and searching answers man" alt="people asking questions and searching answers man vector image"></noscript></a></li>
+						<li data-id="30405507" data-title="people wearing a face mask wash hands" data-src="https://cdn3.vectorstock.com/i/thumbs/55/07/people-wearing-a-face-mask-wash-hands-vector-30405507.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/people-wearing-a-face-mask-wash-hands-vector-30405507" title="people wearing a face mask wash hands vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/55/07/people-wearing-a-face-mask-wash-hands-vector-30405507.jpg" title="people wearing a face mask wash hands" alt="people wearing a face mask wash hands vector image"></noscript></a></li>
+						<li data-id="25948947" data-title="businessman and man waving hand outdoor" data-src="https://cdn3.vectorstock.com/i/thumbs/89/47/businessman-and-man-waving-hand-outdoor-vector-25948947.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/businessman-and-man-waving-hand-outdoor-vector-25948947" title="businessman and man waving hand outdoor vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/89/47/businessman-and-man-waving-hand-outdoor-vector-25948947.jpg" title="businessman and man waving hand outdoor" alt="businessman and man waving hand outdoor vector image"></noscript></a></li>
+						<li data-id="38942175" data-title="man and woman shaking hands with successful deals" data-src="https://cdn1.vectorstock.com/i/thumbs/21/75/man-and-woman-shaking-hands-with-successful-deals-vector-38942175.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/man-and-woman-shaking-hands-with-successful-deals-vector-38942175" title="man and woman shaking hands with successful deals vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/21/75/man-and-woman-shaking-hands-with-successful-deals-vector-38942175.jpg" title="man and woman shaking hands with successful deals" alt="man and woman shaking hands with successful deals vector image"></noscript></a></li>
+						<li data-id="30228915" data-title="people shake hands" data-src="https://cdn1.vectorstock.com/i/thumbs/89/15/people-shake-hands-vector-30228915.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/people-shake-hands-vector-30228915" title="people shake hands vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/89/15/people-shake-hands-vector-30228915.jpg" title="people shake hands" alt="people shake hands vector image"></noscript></a></li>
+						<li data-id="29615705" data-title="set people in masks playing virtual games" data-src="https://cdn1.vectorstock.com/i/thumbs/57/05/set-people-in-masks-playing-virtual-games-vector-29615705.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/set-people-in-masks-playing-virtual-games-vector-29615705" title="set people in masks playing virtual games vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/57/05/set-people-in-masks-playing-virtual-games-vector-29615705.jpg" title="set people in masks playing virtual games" alt="set people in masks playing virtual games vector image"></noscript></a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="group-artist" class="group">
+				<h6><span class="icon"></span><strong>More by <a href="https://www.vectorstock.com/royalty-free-vectors/vectors-by_Vectorpic" rel="nofollow">Vectorpic</a></strong></h6>
+
+				<div class="gallery_mosaic tiled">
+					<figure data-id="37159791" style="width: 214px; height: 214px; order: 0; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-vector-37159791" style="height: 204px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/97/91/flat-people-asking-questions-vector-37159791.webp 2x, https://cdn.vectorstock.com/i/preview-1x/97/91/flat-people-asking-questions-vector-37159791.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/97/91/flat-people-asking-questions-vector-37159791.webp 3x, https://cdn.vectorstock.com/i/preview-1x/97/91/flat-people-asking-questions-vector-37159791.webp 2x, https://cdn.vectorstock.com/i/preview-lt/97/91/flat-people-asking-questions-vector-37159791.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/97/91/flat-people-asking-questions-vector-37159791.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/97/91/flat-people-asking-questions-vector-37159791.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/flat-people-asking-questions-vector-37159791.jpg" data-id="37159791" data-title="flat people asking questions" data-ratio="1" alt="Flat people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="36809356" style="width: 214px; height: 214px; order: 1; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-vector-36809356" style="height: 204px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/93/56/flat-people-asking-questions-vector-36809356.webp 2x, https://cdn.vectorstock.com/i/preview-1x/93/56/flat-people-asking-questions-vector-36809356.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/93/56/flat-people-asking-questions-vector-36809356.webp 3x, https://cdn.vectorstock.com/i/preview-1x/93/56/flat-people-asking-questions-vector-36809356.webp 2x, https://cdn.vectorstock.com/i/preview-lt/93/56/flat-people-asking-questions-vector-36809356.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/93/56/flat-people-asking-questions-vector-36809356.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/93/56/flat-people-asking-questions-vector-36809356.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/flat-people-asking-questions-vector-36809356.jpg" data-id="36809356" data-title="flat people asking questions" data-ratio="1" alt="Flat people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="36810527" style="width: 214px; height: 214px; order: 2;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/organic-flat-people-asking-questions-vector-36810527" style="height: 204px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/05/27/organic-flat-people-asking-questions-vector-36810527.webp 2x, https://cdn.vectorstock.com/i/preview-1x/05/27/organic-flat-people-asking-questions-vector-36810527.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/05/27/organic-flat-people-asking-questions-vector-36810527.webp 3x, https://cdn.vectorstock.com/i/preview-1x/05/27/organic-flat-people-asking-questions-vector-36810527.webp 2x, https://cdn.vectorstock.com/i/preview-lt/05/27/organic-flat-people-asking-questions-vector-36810527.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/05/27/organic-flat-people-asking-questions-vector-36810527.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/05/27/organic-flat-people-asking-questions-vector-36810527.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/organic-flat-people-asking-questions-vector-36810527.jpg" data-id="36810527" data-title="organic flat people asking questions" data-ratio="1" alt="Organic flat people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="36753708" style="width: 214px; height: 214px; order: 3;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-vector-36753708" style="height: 204px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/37/08/flat-people-asking-questions-vector-36753708.webp 2x, https://cdn.vectorstock.com/i/preview-1x/37/08/flat-people-asking-questions-vector-36753708.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/37/08/flat-people-asking-questions-vector-36753708.webp 3x, https://cdn.vectorstock.com/i/preview-1x/37/08/flat-people-asking-questions-vector-36753708.webp 2x, https://cdn.vectorstock.com/i/preview-lt/37/08/flat-people-asking-questions-vector-36753708.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/37/08/flat-people-asking-questions-vector-36753708.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/37/08/flat-people-asking-questions-vector-36753708.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/flat-people-asking-questions-vector-36753708.jpg" data-id="36753708" data-title="flat people asking questions" data-ratio="1" alt="Flat people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="36810365" style="width: 214px; height: 214px; order: 4;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/organic-flat-people-asking-questions-vector-36810365" style="height: 204px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/03/65/organic-flat-people-asking-questions-vector-36810365.webp 2x, https://cdn.vectorstock.com/i/preview-1x/03/65/organic-flat-people-asking-questions-vector-36810365.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/03/65/organic-flat-people-asking-questions-vector-36810365.webp 3x, https://cdn.vectorstock.com/i/preview-1x/03/65/organic-flat-people-asking-questions-vector-36810365.webp 2x, https://cdn.vectorstock.com/i/preview-lt/03/65/organic-flat-people-asking-questions-vector-36810365.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/03/65/organic-flat-people-asking-questions-vector-36810365.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/03/65/organic-flat-people-asking-questions-vector-36810365.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/organic-flat-people-asking-questions-vector-36810365.jpg" data-id="36810365" data-title="organic flat people asking questions" data-ratio="1" alt="Organic flat people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37204107" style="width: 316px; height: 214px; order: 5;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-vector-37204107" style="height: 204px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/41/07/flat-people-asking-questions-vector-37204107.webp 2x, https://cdn.vectorstock.com/i/preview-1x/41/07/flat-people-asking-questions-vector-37204107.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/41/07/flat-people-asking-questions-vector-37204107.webp 3x, https://cdn.vectorstock.com/i/preview-1x/41/07/flat-people-asking-questions-vector-37204107.webp 2x, https://cdn.vectorstock.com/i/preview-lt/41/07/flat-people-asking-questions-vector-37204107.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/41/07/flat-people-asking-questions-vector-37204107.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/41/07/flat-people-asking-questions-vector-37204107.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/flat-people-asking-questions-vector-37204107.jpg" data-id="37204107" data-title="flat people asking questions" data-ratio="1.5" alt="Flat people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37159900" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-vector-37159900">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/99/00/flat-people-asking-questions-vector-37159900.webp 2x, https://cdn.vectorstock.com/i/preview-1x/99/00/flat-people-asking-questions-vector-37159900.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/99/00/flat-people-asking-questions-vector-37159900.webp 3x, https://cdn.vectorstock.com/i/preview-1x/99/00/flat-people-asking-questions-vector-37159900.webp 2x, https://cdn.vectorstock.com/i/preview-lt/99/00/flat-people-asking-questions-vector-37159900.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/99/00/flat-people-asking-questions-vector-37159900.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/99/00/flat-people-asking-questions-vector-37159900.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/flat-people-asking-questions-vector-37159900.jpg" data-id="37159900" data-title="flat people asking questions" data-ratio="1" alt="Flat people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37160121" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/pack-flat-people-asking-questions-vector-37160121">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/01/21/pack-flat-people-asking-questions-vector-37160121.webp 2x, https://cdn.vectorstock.com/i/preview-1x/01/21/pack-flat-people-asking-questions-vector-37160121.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/01/21/pack-flat-people-asking-questions-vector-37160121.webp 3x, https://cdn.vectorstock.com/i/preview-1x/01/21/pack-flat-people-asking-questions-vector-37160121.webp 2x, https://cdn.vectorstock.com/i/preview-lt/01/21/pack-flat-people-asking-questions-vector-37160121.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/01/21/pack-flat-people-asking-questions-vector-37160121.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/01/21/pack-flat-people-asking-questions-vector-37160121.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/pack-flat-people-asking-questions-vector-37160121.jpg" data-id="37160121" data-title="pack flat people asking questions" data-ratio="1.5" alt="Pack flat people asking questions vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="36809459" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/organic-flat-non-binary-people-vector-36809459">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/94/59/organic-flat-non-binary-people-vector-36809459.webp 2x, https://cdn.vectorstock.com/i/preview-1x/94/59/organic-flat-non-binary-people-vector-36809459.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/94/59/organic-flat-non-binary-people-vector-36809459.webp 3x, https://cdn.vectorstock.com/i/preview-1x/94/59/organic-flat-non-binary-people-vector-36809459.webp 2x, https://cdn.vectorstock.com/i/preview-lt/94/59/organic-flat-non-binary-people-vector-36809459.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/94/59/organic-flat-non-binary-people-vector-36809459.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/94/59/organic-flat-non-binary-people-vector-36809459.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/organic-flat-non-binary-people-vector-36809459.jpg" data-id="36809459" data-title="organic flat non binary people" data-ratio="1" alt="Organic flat non binary people vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37159811" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-set-vector-37159811">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/98/11/flat-people-asking-questions-set-vector-37159811.webp 2x, https://cdn.vectorstock.com/i/preview-1x/98/11/flat-people-asking-questions-set-vector-37159811.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/98/11/flat-people-asking-questions-set-vector-37159811.webp 3x, https://cdn.vectorstock.com/i/preview-1x/98/11/flat-people-asking-questions-set-vector-37159811.webp 2x, https://cdn.vectorstock.com/i/preview-lt/98/11/flat-people-asking-questions-set-vector-37159811.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/98/11/flat-people-asking-questions-set-vector-37159811.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/98/11/flat-people-asking-questions-set-vector-37159811.jpg 1.5x">
+								<img src="./Hand drawn people asking questions Royalty Free Vector Image_files/flat-people-asking-questions-set-vector-37159811.jpg" data-id="37159811" data-title="flat people asking questions set" data-ratio="1.2" alt="Flat people asking questions set vector">
+							</picture>
+						</a>
+					</div></figure>
+				</div>
+				<div class="gallery small more">
+					<ul>
+						<li data-id="37159977" data-title="set flat people asking questions" data-src="https://cdn3.vectorstock.com/i/thumbs/99/77/set-flat-people-asking-questions-vector-37159977.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/set-flat-people-asking-questions-vector-37159977" title="set flat people asking questions vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/99/77/set-flat-people-asking-questions-vector-37159977.jpg" title="set flat people asking questions" alt="set flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="36809647" data-title="organic flat people asking questions" data-src="https://cdn3.vectorstock.com/i/thumbs/96/47/organic-flat-people-asking-questions-vector-36809647.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/organic-flat-people-asking-questions-vector-36809647" title="organic flat people asking questions vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/96/47/organic-flat-people-asking-questions-vector-36809647.jpg" title="organic flat people asking questions" alt="organic flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37159962" data-title="flat people asking questions set" data-src="https://cdn3.vectorstock.com/i/thumbs/99/62/flat-people-asking-questions-set-vector-37159962.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-set-vector-37159962" title="flat people asking questions set vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/99/62/flat-people-asking-questions-set-vector-37159962.jpg" title="flat people asking questions set" alt="flat people asking questions set vector image vector image"></noscript></a></li>
+						<li data-id="37159970" data-title="pack flat people asking questions" data-src="https://cdn1.vectorstock.com/i/thumbs/99/70/pack-flat-people-asking-questions-vector-37159970.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/pack-flat-people-asking-questions-vector-37159970" title="pack flat people asking questions vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/99/70/pack-flat-people-asking-questions-vector-37159970.jpg" title="pack flat people asking questions" alt="pack flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37203855" data-title="flat people asking questions" data-src="https://cdn1.vectorstock.com/i/thumbs/38/55/flat-people-asking-questions-vector-37203855.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-vector-37203855" title="flat people asking questions vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/38/55/flat-people-asking-questions-vector-37203855.jpg" title="flat people asking questions" alt="flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37203928" data-title="hand drawn people asking questions" data-src="https://cdn4.vectorstock.com/i/thumbs/39/28/hand-drawn-people-asking-questions-vector-37203928.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-drawn-people-asking-questions-vector-37203928" title="hand drawn people asking questions vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/39/28/hand-drawn-people-asking-questions-vector-37203928.jpg" title="hand drawn people asking questions" alt="hand drawn people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37159952" data-title="flat people asking questions pack" data-src="https://cdn3.vectorstock.com/i/thumbs/99/52/flat-people-asking-questions-pack-vector-37159952.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-pack-vector-37159952" title="flat people asking questions pack vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/99/52/flat-people-asking-questions-pack-vector-37159952.jpg" title="flat people asking questions pack" alt="flat people asking questions pack vector image vector image"></noscript></a></li>
+						<li data-id="36809260" data-title="organic flat people asking questions" data-src="https://cdn1.vectorstock.com/i/thumbs/92/60/organic-flat-people-asking-questions-vector-36809260.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/organic-flat-people-asking-questions-vector-36809260" title="organic flat people asking questions vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/92/60/organic-flat-people-asking-questions-vector-36809260.jpg" title="organic flat people asking questions" alt="organic flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37159795" data-title="pack flat people asking questions" data-src="https://cdn1.vectorstock.com/i/thumbs/97/95/pack-flat-people-asking-questions-vector-37159795.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/pack-flat-people-asking-questions-vector-37159795" title="pack flat people asking questions vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/97/95/pack-flat-people-asking-questions-vector-37159795.jpg" title="pack flat people asking questions" alt="pack flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37159951" data-title="flat people asking questions pack" data-src="https://cdn2.vectorstock.com/i/thumbs/99/51/flat-people-asking-questions-pack-vector-37159951.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-pack-vector-37159951" title="flat people asking questions pack vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/99/51/flat-people-asking-questions-pack-vector-37159951.jpg" title="flat people asking questions pack" alt="flat people asking questions pack vector image vector image"></noscript></a></li>
+						<li data-id="37159966" data-title="pack flat people asking questions" data-src="https://cdn2.vectorstock.com/i/thumbs/99/66/pack-flat-people-asking-questions-vector-37159966.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/pack-flat-people-asking-questions-vector-37159966" title="pack flat people asking questions vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/99/66/pack-flat-people-asking-questions-vector-37159966.jpg" title="pack flat people asking questions" alt="pack flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37160124" data-title="flat people asking questions set" data-src="https://cdn5.vectorstock.com/i/thumbs/01/24/flat-people-asking-questions-set-vector-37160124.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-set-vector-37160124" title="flat people asking questions set vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/01/24/flat-people-asking-questions-set-vector-37160124.jpg" title="flat people asking questions set" alt="flat people asking questions set vector image vector image"></noscript></a></li>
+						<li data-id="36809136" data-title="organic flat people asking questions" data-src="https://cdn2.vectorstock.com/i/thumbs/91/36/organic-flat-people-asking-questions-vector-36809136.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/organic-flat-people-asking-questions-vector-36809136" title="organic flat people asking questions vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/91/36/organic-flat-people-asking-questions-vector-36809136.jpg" title="organic flat people asking questions" alt="organic flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37203795" data-title="flat people asking questions" data-src="https://cdn1.vectorstock.com/i/thumbs/37/95/flat-people-asking-questions-vector-37203795.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-vector-37203795" title="flat people asking questions vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/37/95/flat-people-asking-questions-vector-37203795.jpg" title="flat people asking questions" alt="flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37159973" data-title="set flat people asking questions" data-src="https://cdn4.vectorstock.com/i/thumbs/99/73/set-flat-people-asking-questions-vector-37159973.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/set-flat-people-asking-questions-vector-37159973" title="set flat people asking questions vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/99/73/set-flat-people-asking-questions-vector-37159973.jpg" title="set flat people asking questions" alt="set flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37160175" data-title="flat people asking questions set" data-src="https://cdn1.vectorstock.com/i/thumbs/01/75/flat-people-asking-questions-set-vector-37160175.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-set-vector-37160175" title="flat people asking questions set vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/01/75/flat-people-asking-questions-set-vector-37160175.jpg" title="flat people asking questions set" alt="flat people asking questions set vector image vector image"></noscript></a></li>
+						<li data-id="37160006" data-title="flat people asking questions set" data-src="https://cdn2.vectorstock.com/i/thumbs/00/06/flat-people-asking-questions-set-vector-37160006.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-set-vector-37160006" title="flat people asking questions set vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/00/06/flat-people-asking-questions-set-vector-37160006.jpg" title="flat people asking questions set" alt="flat people asking questions set vector image vector image"></noscript></a></li>
+						<li data-id="37203870" data-title="hand drawn people asking questions" data-src="https://cdn1.vectorstock.com/i/thumbs/38/70/hand-drawn-people-asking-questions-vector-37203870.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-drawn-people-asking-questions-vector-37203870" title="hand drawn people asking questions vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/38/70/hand-drawn-people-asking-questions-vector-37203870.jpg" title="hand drawn people asking questions" alt="hand drawn people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="37087288" data-title="flat people asking questions" data-src="https://cdn4.vectorstock.com/i/thumbs/72/88/flat-people-asking-questions-vector-37087288.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-people-asking-questions-vector-37087288" title="flat people asking questions vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/72/88/flat-people-asking-questions-vector-37087288.jpg" title="flat people asking questions" alt="flat people asking questions vector image vector image"></noscript></a></li>
+						<li data-id="36809274" data-title="organic flat people asking questions" data-src="https://cdn5.vectorstock.com/i/thumbs/92/74/organic-flat-people-asking-questions-vector-36809274.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/organic-flat-people-asking-questions-vector-36809274" title="organic flat people asking questions vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/92/74/organic-flat-people-asking-questions-vector-36809274.jpg" title="organic flat people asking questions" alt="organic flat people asking questions vector image vector image"></noscript></a></li>
+						<li class="more"><div><a href="https://www.vectorstock.com/royalty-free-vectors/vectors-by_Vectorpic" rel="nofollow"><span class="lrg">More Images…</span><span class="sml">More</span></a></div></li>
+					</ul>
+				</div>
+			</div>
+			<div id="group-keywords" class="group">
+				<h6><span class="icon"></span><strong>Related Searches</strong></h6>
+				<ul>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/people-vectors">People</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/hand-vectors">Hand</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/asking-vectors">Asking</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/person-vectors">Person</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/question-vectors">Question</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/happy-vectors">Happy</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/white-vectors">White</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/idea-vectors">Idea</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/internet-vectors">Internet</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/work-vectors">Work</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/sign-vectors">Sign</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/communication-vectors">Communication</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/meeting-vectors">Meeting</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/male-vectors">Male</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/business-vectors">Business</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/symbol-vectors">Symbol</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/discussion-vectors">Discussion</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/portrait-vectors">Portrait</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/team-vectors">Team</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/education-vectors">Education</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/expression-vectors">Expression</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/isolated-vectors">Isolated</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/casual-vectors">Casual</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/success-vectors">Success</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/businessman-vectors">Businessman</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/adult-vectors">Adult</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/professional-vectors">Professional</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/ask-vectors">Ask</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/why-vectors">Why</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/graphic-vectors">Graphic</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/vector-vectors">Vector</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/illustration-vectors">Illustration</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/man-vectors">Man</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/background-vectors">Background</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/student-vectors">Student</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/woman-vectors">Woman</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/cartoon-vectors">Cartoon</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/group-vectors">Group</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/flat-vectors">Flat</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/think-vectors">Think</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/character-vectors">Character</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/mark-vectors">Mark</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/young-vectors">Young</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/answer-vectors">Answer</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/help-vectors">Help</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/solution-vectors">Solution</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/support-vectors">Support</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/query-vectors">Query</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/faq-vectors">Faq</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/doubt-vectors">Doubt</a></li>
+				</ul>
+			</div>
+		</section>
+	</article>
+
+	<!-- Footer -->
+	<footer>
+		<div>
+		<div class="column c1">
+			<nav class="company">
+				<h4>VectorStock</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/" title="Home">Home</a></li>
+					<li class="sel"><a href="https://www.vectorstock.com/free-vectors" title="Free Vectors">Free Vectors</a></li>
+					<li class="sel"><a href="https://www.vectorstock.com/royalty-free-vectors" title="All Royalty-Free Vectors">All Vectors</a></li>
+				</ul>
+				<ul>
+					<li><a href="https://www.vectorstock.com/what-is-a-vector" title="What is a Vector?">What is a Vector?</a></li>
+				</ul>
+				<ul>
+					<li class="sel"><a href="https://www.vectorstock.com/faq" title="Frequently Asked Questions"><span class="long">Frequently Asked Questions</span><span class="short">FAQs</span></a></li>
+					<li><a href="https://www.vectorstock.com/faq/members/terms-of-use" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+					<li class="sel"><a href="https://www.vectorstock.com/contact" title="Contact Us">Contact Us</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column c2">
+			<nav class="account">
+				<h4><span class="title">Account</span><span class="icon"></span></h4>
+					<ul>
+						<li><a href="https://www.vectorstock.com/signup" title="Join Now">Join Now</a></li>
+						<li><a href="https://www.vectorstock.com/pricing" title="Pricing">Pricing</a></li>
+						<li><a href="https://www.vectorstock.com/?signup=1&amp;contributor=1" title="Contributor Sign Up">Contributor Sign Up</a></li>
+						<li><a href="https://www.vectorstock.com/faq/artists/why-sell-at-vectorstock" title="Contributor FAQ">Contributor FAQ</a></li>
+					</ul>
+			</nav>
+		</div>
+		<div class="column c3">
+			<nav class="social">
+				<h4>Social</h4>
+				<ul>
+					<li class="facebook sel"><a href="https://www.facebook.com/VectorStock" target="_blank" rel="noreferrer"><span class="title">Facebook</span><span class="icon"></span></a></li>
+					<li class="pinterest sel"><a href="https://pinterest.com/vectorstock/" target="_blank" rel="noreferrer"><span class="title">Pinterest</span><span class="icon"></span></a></li>
+					<li class="twitter sel"><a href="https://twitter.com/VectorStock" target="_blank" rel="noreferrer"><span class="title">Twitter</span><span class="icon"></span></a></li>
+				</ul>
+			</nav>
+			<div class="signoff">
+				<h5><a href="https://www.vectorstock.com/" title="VectorStock®">VectorStock®</a></h5>
+				<p>VectorStock and the VectorStock logo are registered trademarks of VectorStock Media.<br>
+				© 2024. <span>All Rights Reserved.</span></p>
+			</div>
+		</div>
+		</div>
+	</footer>
+
+
+	<script type="text/javascript" nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8=">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"02e09611df","applicationID":"156179534","transactionName":"ZV0ENRYCC0RYAkVbDVwXJRQXFwpaFhNeSwNeTB9MAhEAUhQXVFEWXUpJFw0GEg==","queueTime":0,"applicationTime":51,"atts":"SRoHQ14YGEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+	<script id="_a_admitag" src="./Hand drawn people asking questions Royalty Free Vector Image_files/admitag.min.js.download" defer=""></script><script nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8=" type="text/javascript">try{var cookie_name="deduplication_cookie",days_to_store=90,deduplication_cookie_value="admitad",channel_name="utm_source";getSourceParamFromUri=function(){return(new RegExp(channel_name+"=([^&]+)").exec(document.location.search)||[])[1]||""},getSourceCookie=function(){var e=document.cookie.match(new RegExp("(?:^|; )"+cookie_name.replace(/([\.$?*|{}\(\)\[\]\\/\+^])/g,"\$1")+"=([^;]*)"));return e?decodeURIComponent(e[1]):void 0},setSourceCookie=function(){var e=getSourceParamFromUri(),o=new URL(document.location).searchParams;if(!o.get(channel_name)&&o.get("gclid"))e="advAutoMarkup";else if(!e)return;var n=new Date(60*days_to_store*60*24*1e3+ +new Date),a=cookie_name+"="+e+"; path=/; expires="+n.toGMTString();document.cookie=a,document.cookie=a+"; domain=."+location.host},setSourceCookie();}catch(e){}</script>
+	<script id="profitwell-js" data-pw-auth="1051055e2c0cbe1da2ab7ca0abe9bc55" nonce="K4THAsOgf0jnx7YmFaXTxUjQZY7//O8oiha5H6JTxC8=">
+	$(document).ready(function() {(function(i,s,o,g,r,a,m){i[o]=i[o]||function(){(i[o].q=i[o].q||[]).push(arguments)}; a=s.createElement(g);m=s.getElementsByTagName(g)[0];a.async=1;a.src=r+'?auth='+s.getElementById(o+'-js').getAttribute('data-pw-auth');m.parentNode.insertBefore(a,m);})(window,document,'profitwell','script','https://public.profitwell.com/js/profitwell.js');
+	profitwell('start', {});});</script>
+
+
+
+<div id="forest-ext-shadow-host"><template shadowrootmode="open"><head></head><div id="root"></div></template></div><div id="catpetcat1" class="catpet" style="z-index: 99999; position: fixed; top: 373.544px; left: 664.987px;"><div class="catpet-bubble" id="catpet-bubblecat1" style="z-index: 1000000012; display: none; left: 105px; top: -140px; background: url(&quot;chrome-extension://ejgnolahdlcimijhloboakpjogbfdkkp/images/bubble.svg&quot;);"><div class="catpet-bubble-text" id="catpet-bubble-textcat1">Please Pet Me</div></div><canvas width="150" height="125" id="catpet_petcat1" style="touch-action: auto; cursor: inherit;"></canvas></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style>
+      div.grammarly-desktop-integration {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select:none;
+        user-select:none;
+      }
+
+      div.grammarly-desktop-integration:before {
+        content: attr(data-content);
+      }
+    </style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
