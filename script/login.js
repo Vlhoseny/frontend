@@ -1,5 +1,3 @@
-
-
 // ---------------------------------------------------------------------------
 // login switch
 const loginlink = () => {
@@ -53,10 +51,10 @@ const loginlink = () => {
   img.style.display = "block";
   img.style.width = "100%";
   img.style.margin = "auto";
-  img.style.marginTop = "25%";
-  img.src = "";
+  img.style.marginTop = "15%";
+  img.src = "images/1.png";
 
-  left.style.backgroundColor = "#DCF2F1";
+  left.style.backgroundColor = "#EEEEEE";
   right.style.backgroundColor = "#F7F7F7";
 
   left.append(img);
@@ -134,10 +132,10 @@ const registerlink = () => {
   img.style.display = "block";
   img.style.width = "100%";
   img.style.margin = "auto";
-  img.style.marginTop = "25%";
-  img.src = "";
+  img.style.marginTop = "15%";
+  img.src = "images/1.png";
 
-  right.style.backgroundColor = "#DCF2F1";
+  right.style.backgroundColor = "#EEEEEE";
   left.style.backgroundColor = "#F7F7F7";
 
   right.append(img);
@@ -191,10 +189,10 @@ const onload = () => {
   img.style.display = "block";
   img.style.width = "100%";
   img.style.margin = "auto";
-  img.style.marginTop = "25%";
-  img.src = "";
+  img.style.marginTop = "15%";
+  img.src = "images/1.png";
 
-  left.style.backgroundColor = "#DCF2F1";
+  left.style.backgroundColor = "#EEEEEE";
   right.style.backgroundColor = "#F7F7F7";
 
   left.append(img);

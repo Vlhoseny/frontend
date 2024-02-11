@@ -133,6 +133,69 @@ body {
 }
 
 /* login form div */
+.head {
+    background-color: #00ADB5;
+    padding: 0%;
+    margin: 0%;
+    height: 100vh;
+    width: 240px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.user{
+    float:right;
+    height: 30px;
+    
+}
+.logo{
+    height: 30px;
+    float:left;
+}
+.search::placeholder{
+    font-style: italic;
+    padding: 5px;
+}
+.contact{
+    background-color: grey;
+    color:#EEEEEE;
+    border-radius: 22px;
+    text-align: center;
+    width:150px;
+    border: 1px solid grey;
+    justify-content: center;
+    height:50px;
+    font-size:20px;
+    margin-left: 45px;
+
+}
+.product{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 70px;
+    font-weight: 500;
+
+}
+.impact{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 70px;
+    font-weight: 500;
+
+}
+.company{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 70px;
+    font-weight: 500;
+
+}
+
 main {
     border: none;
     width: 45%;
