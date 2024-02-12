@@ -27,16 +27,6 @@ const loginlink = () => {
     <div>
     <span>Dont Have an Account? </span
     ><a href="#" onclick="registerlink()"> Register</a>
-    <p>-OR-</p>
-    </div>
-    <div id="social-medial-auth">
-    <div>
-        <img src="./images/search.png" alt="" onclick="googleLogin()"/>
-    </div>
-  
-    <div>
-        <img src="./images/facebook.png" alt="" />
-    </div>
     </div>
     </section>
 
@@ -170,15 +160,6 @@ const onload = () => {
         <div>
         <span>Dont Have an Account? </span
         ><a href="#" onclick="registerlink()"> Register</a>
-        <p>-OR-</p>
-        </div>
-        <div id="social-medial-auth">
-        <div>
-            <img src="./images/search.png" alt=""  onclick="googleLogin()"/>
-        </div>
-        <div>
-            <img src="./images/facebook.png" alt="" />
-        </div>
         </div>
         </section>
    
