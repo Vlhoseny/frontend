@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>لسه بنفكر</title>
     <link rel="shortcut icon" href="images/15.png" type="image/x-icon">
-    <link rel="stylesheet" href="style/login.css" />
+    <link rel="stylesheet" href="style/register.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -36,40 +36,69 @@
     </div>
 </header>
 <body>
-    
+      
+    </div>
     <main>
-        <div id="login">
-            <img src="images/1.png" alt=""></div>
+        <div id="register"></div>
         
-        <section id="login-section">
-            <h2>Login</h2>
-            <form action="" id="loginForm" >
-            <input
+            <div id="picture"><img src="images/1.png">
+                </div>
+        <div id="register-div">
+            <h2>Register</h2>
+            <form action="" id="registerForm" >
+            <div>
+                <input
                 type="text"
+                name="name"
+                placeholder="First Name"
+                autocomplete="off"
+                required
+                />
+                <input
+                type="text"
+                name="lname"
+                placeholder="Last Name"
+                autocomplete="off"
+                required
+                />
+            </div>
+            <input
+                type="email"
                 name="email"
                 placeholder="Email"
                 autocomplete="off"
                 required
             /><input
+                type="number"
+                name="age"
+                placeholder="age"
+                autocomplete="off"
+                 required
+            />
+            
+            <input
                 type="password"
                 name="password"
                 placeholder="Password"
                 autocomplete="off"
                 required
+            /><input
+                type="password"
+                name="confirm_password"
+                placeholder="Confirm Password"
+                autocomplete="off"
+                required
             />
-            <button type="submit">Login</button>
-            <section id="register-and-social-media">
-                <div>
-                <span>Dont Have an Account? </span><a href="register.html"> Register</a>
-                </div>
-                </section>
-            </form>
-            </section>
-            
+            <button type="submit">Register</button>
 
+
+            <span style="color: red">Already Have Account? </span
+            ><a href="login.html"">Login</a>
+            </form>
+            </div>
     </main>
     
-   
+
 </body>
 
 </html>
