@@ -42,16 +42,4 @@ const handleRegister = () => {
   })
 }
 
-// createUserWithEmailAndPassword(auth, document.getElementById('email').value, document.getElementById('password').value)
-//   .then((userCredential) => {
-//     // Signed up 
-//     const user = userCredential.user;
-//     // ...
-//   })
-//   .catch((error) => {
-//     const errorCode = error.code;
-//     const errorMessage = error.message;
-//     // ..
-//   });
-
 handleRegister()
