@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>لسه بنفكر</title>
+    <title>hire me </title>
     <link rel="shortcut icon" href="images/15.png" type="image/x-icon">
     <link rel="stylesheet" href="style/register.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -16,7 +16,9 @@
     <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.3/dist/sweetalert2.min.css" rel="stylesheet" />
     <script src="
     https://cdn.jsdelivr.net/npm/sweetalert2@11.7.3/dist/sweetalert2.all.min.js
-    "></script>
+    ">
+
+</script>
 </head>
 <header>
     <div class="head">
@@ -50,12 +52,14 @@
                 <input
                 type="text"
                 name="name"
+                id="fname"
                 placeholder="First Name"
                 autocomplete="off"
                 required
                 />
                 <input
                 type="text"
+                id="lname"
                 name="lname"
                 placeholder="Last Name"
                 autocomplete="off"
@@ -65,12 +69,14 @@
             <input
                 type="email"
                 name="email"
+                id="email"
                 placeholder="Email"
                 autocomplete="off"
                 required
             /><input
                 type="number"
                 name="age"
+                id="age"
                 placeholder="age"
                 autocomplete="off"
                  required
@@ -79,25 +85,29 @@
             <input
                 type="password"
                 name="password"
+                id="pass"
                 placeholder="Password"
                 autocomplete="off"
                 required
             /><input
                 type="password"
                 name="confirm_password"
+                id="cpass"
                 placeholder="Confirm Password"
                 autocomplete="off"
                 required
             />
-            <button type="submit">Register</button>
+           
 
 
+        </form>
+        <button type="submit" id="reg">Register</button>
             <span style="color: red">Already Have Account? </span
-            ><a href="login.html"">Login</a>
-            </form>
+                ><a href="login.html"">Login</a>
+               
             </div>
     </main>
-    
+    <script src="/main.js" type="module"></script>
 
 </body>
 
