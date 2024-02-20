@@ -22,11 +22,11 @@ header{
     max-height: fit-content;
     justify-content:space-around;
     display: flex;
-    min-width: 1013px;
+    min-width: 950px;
 }
 .cont{
     width: fit-content;
-    margin-right:-13% ;
+    margin-right:-17% ;
     display: flex;
     position: relative;
 
@@ -38,11 +38,10 @@ header{
     position: relative;
 }
 #logo{
-    display: flex;
-    width:200px;
+    position: relative;
+    width:100%;
     height:12rem;
-    margin-top: -170px;
-    
+    margin-top: -48px;
 
 }
 
@@ -85,7 +84,6 @@ header{
     width: 9rem;
     padding: 9px 20px;
     margin-top: 20px;
-    margin-left: 30px;
 }
 
 
@@ -94,10 +92,48 @@ header{
     background-color: #1c93c9;
 }
 
-.row{
-    height:300px;
+
+#info_div>form>input {
+    border: 1px solid #ccc;
+    outline: none;
+    width: 40%;
+    margin: 1rem 0;
+    border-radius: 5px;
+    padding: 0.5rem;
+    font-family: 'Lemon Milk', sans-serif;
+}
+#info_div>form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
 
+#info_div>h2{
+    text-align: center;
+    font-family: 'Lemon Milk', sans-serif;
+}
+
+
+#info_div>button {
+    border: none;
+    width: 20%;
+    border-radius: 5px;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    background-color:#1891c8;;
+    color: #000;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: 'Lemon Milk', sans-serif;
+    color:white;
+    margin-bottom: 50px;  
+}
+#info_div {
+    text-align: center; 
+    margin-top: 15px;
+}
 
 #logo:hover{
     cursor: pointer;
@@ -131,58 +167,36 @@ header{
 .dropdown-content ul{
     list-style-type: none;
 }
+@media only screen and (max-width:1024px){
+    
+    #user{
+        right:-45%;
+    }
+    .contact{
+        right:-25%;
+    }
+    #logo{
+        left:-4rem;
+    }
+    .divlook{
+        left:-17rem;
+    }.work-with{
+        left:-1rem;
+    }
+    #user{
+        left:-6rem;
+    }
+    .cont{
+        left:-4rem;
+    }
+    .company{
+        left:-0.5rem;
+    }
+    .contact{
+        left:-0.1rem;
+    }
+    .impact{
+        left:-1.3rem;
+    }
 
-#place{
-    background-color: #EEEEEE;
-    margin-top: 30px;
-    border-radius: 10px;
-    box-shadow: 2px 2px 11px gray;
-    display: flex;
-    padding:1rem;
-    width:27rem;
-    margin-left: 5rem;
-}
-
-#box{
-    display: flex;
-}
-#search-container{
-    background-color: #EEEEEE;
-    display: inline-block;
-    min-width: 12rem;
-    height: 100vh;
-    margin-left: -1rem;
-    height:145rem;
-}
-#search{
-    border-radius: 6px;
-    margin:1rem;
-    border: none;
-    box-shadow: 1px 1px 5px gray;
-    margin-top: 2rem;
-}
-#search::placeholder{
-    font-style: italic;
-     font-size: 1em;
-     padding: 7px;
-}
-.row{
-    display: flex;
-}
-
-.klam{
-    font-weight: 450;
-    color: #3D3B40;
-    padding:1rem;
-}
-h2,h6{
-    color: black;
-}
-
-#qual{
-    font-weight: 450;
-}
-
-.klam h2{
-    text-align: center;
 }

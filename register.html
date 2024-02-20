@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>لسه بنفكر</title>
+    <title>Hire me | Register</title>
     <link rel="shortcut icon" href="images/15.png" type="image/x-icon">
     <link rel="stylesheet" href="style/register.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -21,22 +21,23 @@
 <header>
     <div class="head">
         <img src="images/2.png" alt="" class="logo">
-        <a href="index.html" class="product"><strong>Home</strong></a>
-        <a href="index.html" class="product"><strong>PRODUCT</strong></a>
-        <a href="index.html" class="impact"><strong>IMPACT</strong></a>
-        <a href="index.html" class="company"><strong>COMPANY</strong></a>
-        <a href="index.html"><button class="contact">Contact us</button></a>
-
-        <div class="dropdown">
-            <img src="images/122.png" alt="" id="user">
-            <div class="dropdown-content">
-                <ul>
-                    <li><a href="login.html">Log in</a></li>
-                    <li><a href="register.html">Register</a></li>
-                </ul>
-            </div>
+        <div class="cont">
+            <button onclick="navigateAndScrollToSection('http://127.0.0.1:5500/frontend/index.html', 'home')">HOME</button>
+            <button onclick="navigateAndScrollToSection('http://127.0.0.1:5500/frontend/index.html', 'product')">PRODUCT</button>
+        <button onclick="navigateAndScrollToSection('http://127.0.0.1:5500/frontend/index.html', 'impact')">IMPACT</button>
+        <button onclick="navigateAndScrollToSection('http://127.0.0.1:5500/frontend/index.html', 'contact')">Contact us</button>
+        
+        <script>
+        function navigateAndScrollToSection(pageUrl, sectionId) {
+        // Navigate to the other page
+        window.location.href = pageUrl + '#' + sectionId;
+        }
+        </script>
+            
+        </div>
         </div>
 </header>
+
 
 <body>
 
@@ -61,7 +62,7 @@
                     required />
             </form>
             <button type="submit" id="reg">Register</button>
-            <span style="color: red">Already Have Account? </span><a href="login.html"">Login</a>
+            <span style="color: red" >Already Have Account? </span><a href="login.html">Login</a>
     </div>
 </main>
 
