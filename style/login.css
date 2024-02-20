@@ -21,7 +21,7 @@ body {
     width: 240px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 #user{
@@ -74,66 +74,48 @@ body {
     flex-shrink: 0; 
     padding: 0; 
 }
-  
+ 
+.cont {
+    display: flex;
+    flex-direction: column; /* Stack buttons vertically */
+    align-items: center; /* Center align buttons horizontally */
+}
 
-.contact{
+.cont button {
+    font-size: 20px;
+    align-items: center;
+    color: white;
+    background-color: #1891c8;
+    border: 0;
+    margin-bottom: 100px; 
+    font-weight: 700;
+}
+
+.cont button:hover {
+    color: rgb(56, 56, 56);
+}
+
+.cont button:nth-child(4) {
     background-color: #EEEEEE;
     color: #1891c8;
     border-radius: 22px;
     text-align: center;
-    width:150px;
+    width: 150px;
     border: 1px solid grey;
-    justify-content: center;
     height: 50px;
-    font-size:20px;
-    margin-left: 45px;
-
+    font-size: 20px;
     border-radius: 5px;
-
+    margin-bottom: 10px;
+    font-weight: 400;
 }
-.contact:hover{
-    color:#EEEEEE;
-    background-color:gray;
+
+.cont button:nth-child(4):hover {
+    color: #EEEEEE;
+    background-color: rgb(56, 56, 56);
     cursor: pointer;
+    border: none;
 }
 
-.product{
-    text-decoration: none;
-    color: white;
-    font-size: 20px;
-    align-self: center;
-
-}
-.product:hover{
-    color:gray;
-    text-shadow: 1px 1px 7px rgb(204, 204, 204);
-
-}
-
-
-.impact{
-    text-decoration: none;
-    color: white;
-    font-size: 20px;
-    align-self: center;
-    }
-
-.impact:hover{
-        color: gray;
-        text-shadow: 1px 1px 7px rgb(204, 204, 204);
-    }
-
-.company{
-    text-decoration: none;
-    color: white;
-    font-size: 20px;
-    align-self: center;
-}
-
-.company:hover{
-        color: gray;
-        text-shadow: 1px 1px 7px rgb(204, 204, 204);
-    }
 
     
 
@@ -185,7 +167,7 @@ main {
     padding: 0.5rem;
 }
 
-#login-section>form>button {
+#login-section>button {
     border: none;
     width: 50%;
     border-radius: 5px;
@@ -200,9 +182,8 @@ main {
     margin-bottom: 50px;
 }
 
-#login-div>form>button:hover {
-    background-color: #92C7CF;
+#login-section>button:hover {
+    background-color: #046a99;
     cursor: pointer;
-
 }
 

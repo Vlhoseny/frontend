@@ -16,14 +16,23 @@
   <header>
     <div class="head" class="container-fluid">
         <div class="text-center">
+            
 </div>
-    <div class="cont">
-    <a href="index.html" class="home">HOME</a>
-    <a href="index.html" class="product">PRODUCT</a>
-    <a href="index.html" class="impact">IMPACT</a>
-    <a href="index.html" class="company">COMPANY</a>
-    <a href="index.html"><button class="contact">Contact us</button></a>
+<div class="cont">
+    <button onclick="navigateAndScrollToSection('http://127.0.0.1:5500/frontend/index.html', 'home')">HOME</button>
+    <button onclick="navigateAndScrollToSection('http://127.0.0.1:5500/frontend/index.html', 'product')">PRODUCT</button>
+<button onclick="navigateAndScrollToSection('http://127.0.0.1:5500/frontend/index.html', 'impact')">IMPACT</button>
+<button onclick="navigateAndScrollToSection('http://127.0.0.1:5500/frontend/index.html', 'contact')">Contact us</button>
+
+<script>
+function navigateAndScrollToSection(pageUrl, sectionId) {
+// Navigate to the other page
+window.location.href = pageUrl + '#' + sectionId;
+}
+</script>
+    
 </div>
+
 
     <div class="dropdown">
         <img src="images/user.png" alt="" id="user">
