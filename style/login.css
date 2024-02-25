@@ -21,7 +21,7 @@ body {
     width: 240px;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content:space-around ;
 }
 
 #user{
@@ -37,31 +37,6 @@ body {
     cursor:pointer
 }
 
-.dropdown-content a{
-    text-decoration: none;
-    color: white;
-}
-.dropdown-content{
-    display: none;
-    
-}
-.dropdown:hover{
-    .dropdown-content{
-        display: block;
-    }
-}
-.dropdown-content a:hover{
-    color: gray;
-    text-shadow: 1px 1px 7px rgb(204, 204, 204);
-}
-.dropdown-content li{
-    padding: 7px 4px;
-    margin-left: 80px;
-}
-
-.dropdown-content ul{
-    list-style-type: none;
-}
 
 
 .logo {
@@ -77,8 +52,11 @@ body {
  
 .cont {
     display: flex;
+    height:100vh;
     flex-direction: column; /* Stack buttons vertically */
     align-items: center; /* Center align buttons horizontally */
+    justify-content: space-around ;
+
 }
 
 .cont button {
@@ -87,15 +65,15 @@ body {
     color: white;
     background-color: #1891c8;
     border: 0;
-    margin-bottom: 100px; 
     font-weight: 700;
+
 }
 
 .cont button:hover {
     color: rgb(56, 56, 56);
 }
 
-.cont button:nth-child(4) {
+.cont button:nth-child(5) {
     background-color: #EEEEEE;
     color: #1891c8;
     border-radius: 22px;
@@ -109,7 +87,7 @@ body {
     font-weight: 400;
 }
 
-.cont button:nth-child(4):hover {
+.cont button:nth-child(5):hover {
     color: #EEEEEE;
     background-color: rgb(56, 56, 56);
     cursor: pointer;
@@ -121,8 +99,8 @@ body {
 
 main {
     border: none;
-    width: 45%;
-    height: 60%;
+    width:700px ;
+    height: 400px;
     position: absolute;
     top: 50%;
     left: 65%;
@@ -140,7 +118,10 @@ main {
     padding: 1rem 1rem 0 1rem;
     text-align: center;
     color: #393E46;
+    min-width: 300px;
+
 }
+
 #login{
     position: relative;
     width: 100%;
@@ -187,3 +168,43 @@ main {
     cursor: pointer;
 }
 
+@media screen and (max-width : 670px) {
+    body {
+        height: fit-content;
+    }
+
+
+    main {
+        border: none;
+        width: 100%;
+        height: fit-content;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #F7F7F7;
+        border-radius: 10px;
+        box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+        display: flex;
+        flex-direction: column;
+    }
+    .head{
+        display: none;
+    }
+
+   
+   #login {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-top:70px;
+    padding-left:120px;
+    background-color: #EEEEEE;
+}
+
+#login>img {
+    width: 60%;
+}
+
+    
+}

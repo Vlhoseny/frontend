@@ -20,80 +20,112 @@ header{
     overflow:visible;
     height: 175px;
     max-height: fit-content;
-    justify-content:space-around;
+    justify-content:space-between;
+    align-items: center;
     display: flex;
-    min-width: 1013px;
+    min-width: 1244px;
 }
 .cont{
     width: fit-content;
-    margin-right:-13% ;
+    
     display: flex;
     position: relative;
 
 }
 #user{
     float:right;
-    height: 135%;
-    margin-top: -4%;
+    height:8rem;
     position: relative;
+    margin-right: -2rem;
 }
 #logo{
     display: flex;
     width:200px;
     height:12rem;
-    margin-top: -170px;
     
-
 }
 
-.cont {
-    display: flex;
-    justify-content: center; /* Align buttons horizontally */
-}
-
-.cont button:nth-child(1),
-.cont button:nth-child(2),
-.cont button:nth-child(3){
-    padding: 30px 20px; /* Adjust padding as needed */
-    margin: 0 10px; /* Add spacing between buttons */
-    font-size: 20px; /* Adjust font size as needed */
-    font-weight: bold;
-    color: #3D3B40;
-    border: none;
-    cursor: pointer;
-    transition: background-color 0.3s; /* Add transition for smoother hover effect */
-}
-
-.cont button:hover {
-    color: #176d96; 
-    text-shadow: 1px 1px 7px rgb(204, 204, 204);
-}
-
-
-.cont button:nth-child(4) {
-    display: flex;
+.contact{
     text-align: center;
-    justify-content: center; 
+    width:9rem;
+    justify-content: center;
+    height: 2.9rem;
     font-size:20px;
     font-family: "Roboto Condensed", sans-serif;
+    position: relative;
+    right:-11rem;
     border-radius: 6px;
     z-index: 2;
     color: #176d96;
     border: 1px solid #176d96;
     box-shadow: 2px 2px 7px grey;
-    height: 3rem;
-    width: 9rem;
-    padding: 9px 20px;
-    margin-top: 20px;
-    margin-left: 30px;
+
 }
-
-
-.cont button:nth-child(4):hover{
+.contact:hover{
     color:#EEEEEE;
     background-color: #1c93c9;
 }
+.home{
+    text-decoration: none;
+    color: #3D3B40;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: -19%;
+    position: relative;
+    left:-13%;
+    bottom: -23%;
+    right: -7%;
 
+}
+.home:hover{
+    color: #176d96;
+    text-shadow: 1px 1px 7px rgb(204, 204, 204);
+}
+
+.product{
+    text-decoration: none;
+    color: #3D3B40;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: -19%;
+    position: relative;
+    left:15%;
+    bottom: -23%;
+    right: -7%;
+
+}
+.product:hover{
+    color: #176d96;
+    text-shadow: 1px 1px 7px rgb(204, 204, 204);
+}
+.impact{
+    text-decoration: none;
+    color: #3D3B40;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    left:24%;
+    bottom: -23%;
+    right: -17%;
+}
+.impact:hover{
+    color: #176d96;
+    text-shadow: 1px 1px 7px rgb(204, 204, 204);
+}
+.company{
+    text-decoration: none;
+    color: #3D3B40;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: -23%;
+    right: -30%;
+
+}
+.company:hover{
+    color: #176d96;
+    text-shadow: 1px 1px 7px rgb(204, 204, 204);
+}
 .row{
     height:300px;
 }
@@ -105,31 +137,6 @@ header{
 #user:hover{
     cursor: pointer;
 
-}
-
-.dropdown-content a{
-    text-decoration: none;
-    color: #3D3B40;
-}
-.dropdown-content{
-    display: none;
-    
-}
-.dropdown:hover{
-    .dropdown-content{
-        display: block;
-    }
-}
-.dropdown-content a:hover{
-    color: #176d96;
-    text-shadow: 1px 1px 7px rgb(204, 204, 204);
-}
-.dropdown-content li{
-    padding: 7px 4px;
-}
-
-.dropdown-content ul{
-    list-style-type: none;
 }
 
 #place{
@@ -146,25 +153,23 @@ header{
 #box{
     display: flex;
 }
-#search-container{
-    background-color: #EEEEEE;
-    display: inline-block;
-    min-width: 12rem;
-    height: 100vh;
-    margin-left: -1rem;
-    height:145rem;
-}
 #search{
     border-radius: 6px;
-    margin:1rem;
     border: none;
     box-shadow: 1px 1px 5px gray;
-    margin-top: 2rem;
+    margin-top: 7rem;
+    height: 30px;
+    width:350px
+
 }
 #search::placeholder{
-    font-style: italic;
-     font-size: 1em;
      padding: 7px;
+}
+.logo-search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: auto;
 }
 .row{
     display: flex;
@@ -186,3 +191,11 @@ h2,h6{
 .klam h2{
     text-align: center;
 }
+
+.cont-user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

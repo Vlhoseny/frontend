@@ -28,31 +28,38 @@ body {
     transform: translate(-50%, -50%);
     border-radius: 10px 0 0 10px;
     background-color:#F7F7F7;
+    min-width: 350px;
+    min-height: 420px;
 
 }
 
 #register{
-    width: 50%;
-    height: 100%;
+    width: 420px;
+    height: 100px;
     border-radius: 10px 0 0 10px;
     color: #393E46;
+    min-width: 350px;
+    min-height: 420px;
+    
 }
 
 #picture{
-    width: 50%;
-    height: 100%;
-    border-radius: 0px 10px 10px 0px;
+    width: 420px;
+    height: 425;
+    border-radius: 0 10px 10px 0;
     background-color: #EEEEEE;
+    min-height: fit-content;
+    
+
 }
 #picture>img {
     
-    display: flex;
-    width: auto;
-    height: auto;
-    border-radius: 1 10px 10px 0;
-    margin-top: 25%;
-    margin-left: 10%;
-    
+    display: block;
+    width: 200px;
+    margin: auto;
+    border-radius: 0 10px 10px 0;
+    margin-top: 100px;  
+    min-height: 400;
 }
 
 #register-div h2 {
@@ -65,6 +72,8 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    min-height: 200px;
+
 }
 
 #register-div form div {
@@ -167,8 +176,10 @@ body {
  
 .cont {
     display: flex;
+    height:100vh;
     flex-direction: column; /* Stack buttons vertically */
     align-items: center; /* Center align buttons horizontally */
+    justify-content: space-around ;
 }
 
 .cont button {
@@ -185,7 +196,7 @@ body {
     color: rgb(56, 56, 56);
 }
 
-.cont button:nth-child(4) {
+.cont button:nth-child(5) {
     background-color: #EEEEEE;
     color: #1891c8;
     border-radius: 22px;
@@ -199,7 +210,7 @@ body {
     font-weight: 400;
 }
 
-.cont button:nth-child(4):hover {
+.cont button:nth-child(5):hover {
     color: #EEEEEE;
     background-color: rgb(56, 56, 56);
     cursor: pointer;
@@ -228,3 +239,85 @@ main {
     cursor: pointer;
 
 }
+
+
+
+@media screen and (max-width : 670px) {
+    body {
+        height: fit-content;
+    }
+
+    #page-container-div {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+    }
+
+    #back-img-right {
+        display: none;
+    }
+
+    #back-img-left {
+        display: none;
+    }
+
+    main {
+        border: none;
+        width: 100%;
+        height: fit-content;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #F7F7F7;
+        border-radius: 10px;
+        box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+        display: flex;
+        flex-direction: column;
+    }
+  
+
+    #register-div {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+        z-index: 10;
+    }
+
+    #register-div {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 10px 0 0 10px;
+        background-color: #F7F7F7;
+        box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    }
+
+}
+/* Style for the select element */
+select#jobStatus {
+    padding: 10px; /* Adjust padding for better appearance */
+    font-size: 14px; /* Set font size */
+    border: 1px solid #ccc; /* Add border */
+    border-radius: 5px; /* Add border radius for rounded corners */
+    background-color: #fff; /* Set background color */
+    color: #333; /* Set text color */
+    cursor: pointer; /* Show pointer cursor */
+    width: 80%;
+  }
+  
+  /* Style for select options */
+  select#jobStatus option {
+    padding: 10px; /* Adjust padding for better appearance */
+  }
+  
+  /* Style for select options on hover */
+  select#jobStatus option:hover {
+    background-color: #f0f0f0; /* Change background color on hover */
+  }
+  
