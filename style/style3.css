@@ -22,11 +22,10 @@ header{
     max-height: fit-content;
     justify-content:space-around;
     display: flex;
-    min-width: 950px;
+    min-width: 1111px;
 }
 .cont{
     width: fit-content;
-    margin-right:-17% ;
     display: flex;
     position: relative;
 
@@ -34,7 +33,6 @@ header{
 #user{
     float:right;
     height: 135%;
-    margin-top: -4%;
     position: relative;
 }
 #logo{
@@ -131,8 +129,14 @@ header{
     margin-bottom: 50px;  
 }
 #info_div {
+    display: flex;
+    flex-direction: column;
     text-align: center; 
     margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+    min-width: 1111px;
+    height: 500px;
 }
 
 #logo:hover{
@@ -143,60 +147,8 @@ header{
 
 }
 
-.dropdown-content a{
-    text-decoration: none;
-    color: #3D3B40;
-}
-.dropdown-content{
-    display: none;
-    
-}
-.dropdown:hover{
-    .dropdown-content{
-        display: block;
-    }
-}
-.dropdown-content a:hover{
-    color: #176d96;
-    text-shadow: 1px 1px 7px rgb(204, 204, 204);
-}
-.dropdown-content li{
-    padding: 7px 4px;
-}
-
-.dropdown-content ul{
-    list-style-type: none;
-}
-@media only screen and (max-width:1024px){
-    
-    #user{
-        right:-45%;
-    }
-    .contact{
-        right:-25%;
-    }
-    #logo{
-        left:-4rem;
-    }
-    .divlook{
-        left:-17rem;
-    }.work-with{
-        left:-1rem;
-    }
-    #user{
-        left:-6rem;
-    }
-    .cont{
-        left:-4rem;
-    }
-    .company{
-        left:-0.5rem;
-    }
-    .contact{
-        left:-0.1rem;
-    }
-    .impact{
-        left:-1.3rem;
-    }
-
+.cont-user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
