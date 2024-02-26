@@ -85,6 +85,7 @@ body {
     border-radius: 5px;
     margin-bottom: 10px;
     font-weight: 400;
+    
 }
 
 .cont button:nth-child(5):hover {
@@ -162,6 +163,11 @@ main {
     color:white;
     margin-bottom: 50px;
 }
+.contact a{
+    text-decoration: none;
+    color: #046a99;
+}
+
 
 #login-section>button:hover {
     background-color: #046a99;
